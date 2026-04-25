@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>UK Retail Footfall Analytics | 12-Layer Intelligence Platform | ONS Data 2024-2026</title>
-<meta name="description" content="UK Retail Footfall Intelligence Platform — advanced business analytics portfolio project using ONS/BT Active Intelligence data. Features time-series forecasting, volatility risk matrix, and investment scoring across 14 UK regions.">
+<meta name="description" content="UK Retail Footfall Intelligence Platform — advanced analytics using ONS/BT Active Intelligence data. Features time-series forecasting, volatility risk matrix, and investment scoring across 14 UK regions.">
 <meta property="og:title" content="UK Retail Footfall Intelligence Platform">
 <meta property="og:description" content="12-layer analytics engine covering 14 UK regions, 90 weeks of ONS data. Regional benchmarking, forecasting, risk scoring and £-impact estimation.">
 <meta property="og:type" content="website"><meta name="twitter:card" content="summary_large_image">
@@ -27,7 +27,7 @@ body::after{content:'';position:fixed;inset:0;background:repeating-linear-gradie
 nav{position:fixed;top:2px;left:0;width:100%;z-index:1000;background:rgba(5,7,15,0.92);backdrop-filter:blur(14px);border-bottom:1px solid rgba(0,255,255,0.12);padding:0 1rem}
 .nav-inner{max-width:1440px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;height:52px}
 .nav-logo{font-family:var(--font-h);font-size:clamp(.65rem,1.1vw,.85rem);color:var(--cyan);letter-spacing:2px;white-space:nowrap}
-.nav-links{display:flex;gap:2px;overflow-x:auto}
+.nav-links{display:flex;gap:2px;overflow:hidden}
 .nav-links a{color:var(--dim);text-decoration:none;font-size:.62rem;padding:.3rem .5rem;border-radius:4px;transition:all .3s;white-space:nowrap;font-weight:500;letter-spacing:.5px}
 .nav-links a:hover,.nav-links a.active{color:var(--cyan);background:rgba(0,255,255,0.07)}
 .nav-live{font-size:.6rem;color:var(--success);display:flex;align-items:center;gap:4px;white-space:nowrap}
@@ -145,10 +145,8 @@ footer span{color:var(--dim)}
 @keyframes cardPulse{0%{box-shadow:var(--glow1)}50%{box-shadow:var(--glow1),0 0 60px rgba(0,255,255,0.25)}100%{box-shadow:var(--glow1)}}
 @keyframes ripple{to{transform:scale(3);opacity:0}}
 .tbl tr:hover td:first-child{border-left:2px solid rgba(0,255,255,0.4);padding-left:calc(.5rem - 2px)}
-.scroll-pct{position:fixed;top:0;right:10px;font-size:.55rem;font-family:var(--font-h);color:var(--cyan);z-index:1002;line-height:2px;opacity:.7}
-.btt{position:fixed;bottom:24px;right:24px;width:40px;height:40px;border-radius:50%;background:rgba(0,255,255,0.15);border:1px solid rgba(0,255,255,0.3);color:var(--cyan);font-size:1.1rem;cursor:pointer;z-index:999;display:flex;align-items:center;justify-content:center;opacity:0;pointer-events:none;transition:all .3s;box-shadow:0 0 10px rgba(0,255,255,0.2)}
-.btt.show{opacity:1;pointer-events:auto}
-.btt:hover{transform:scale(1.1);box-shadow:0 0 20px rgba(0,255,255,0.4)}
+
+
 #loader{position:fixed;inset:0;background:var(--bg1);z-index:10000;display:flex;flex-direction:column;align-items:center;justify-content:center;transition:opacity .5s}
 .loader-logo{font-family:var(--font-h);font-size:clamp(1.2rem,3vw,2rem);color:var(--cyan);text-shadow:0 0 30px rgba(0,255,255,0.5);letter-spacing:4px;margin-bottom:1rem}
 .loader-text{font-family:var(--font-h);font-size:.65rem;color:var(--dim);letter-spacing:2px;margin-bottom:1.5rem}
@@ -167,7 +165,7 @@ footer span{color:var(--dim)}
 <div class="pgrid"></div>
 <canvas id="particleBg"></canvas>
 <div class="cursor-glow" id="cursorGlow"></div>
-<div class="progress-bar" id="progressBar"></div><span class="scroll-pct" id="scrollPct">0%</span>
+<div class="progress-bar" id="progressBar"></div>
 <nav><div class="nav-inner">
 <div class="nav-logo">⬡ UK FOOTFALL INTELLIGENCE</div>
 <button class="hamburger" id="hamBtn">☰</button>
@@ -176,8 +174,8 @@ footer span{color:var(--dim)}
 </div>
 <div class="nav-live"><span style="font-size:.55rem;color:rgba(123,97,255,0.8);border:1px solid rgba(123,97,255,0.3);padding:2px 6px;border-radius:4px;font-family:var(--font-h);margin-right:8px">12-LAYER ENGINE</span><span id="liveClock"></span> LIVE DATA</div>
 </div></nav>
-<div class="sec-dots" id="secDots"></div>
-<button class="btt" id="bttBtn" title="Back to top">↑</button>
+
+
 <main>
 <section id="s1"><span class="sec-num">01</span>
 <h2 class="hero-title" id="heroTitle"><div class="line1">UK RETAIL FOOTFALL</div><div class="line2">INTELLIGENCE PLATFORM</div></h2>
@@ -246,7 +244,7 @@ footer span{color:var(--dim)}
 <footer>
 <div style="margin-bottom:.5rem"><span>UK Retail Footfall Intelligence Platform</span> · Data: ONS / BT Active Intelligence · Crown Copyright OGL v3.0</div>
 <div>90 weeks · 14 regions · 3 site types · 1,260 data points · 24M devices · <span style="color:var(--cyan)">12-Layer Analytics Engine</span></div>
-<div style="margin-top:.8rem;border-top:1px solid rgba(0,255,255,0.1);padding-top:.8rem"><span style="font-family:var(--font-h);font-size:.65rem;color:var(--cyan);letter-spacing:2px">Built by Ashima Faiza Salahudeen Alimajasmin</span><br><span style="font-size:.6rem;color:var(--dim)">BSc Business Analytics · Queens University Belfast · April 2026</span></div>
+<div style="margin-top:.8rem;border-top:1px solid rgba(0,255,255,0.1);padding-top:.8rem"><span style="font-family:var(--font-h);font-size:.65rem;color:var(--cyan);letter-spacing:2px">Built by Ashima Faiza Salahudeen Alimajasmin</span></div>
 <div style="margin-top:.4rem;font-size:.6rem;color:var(--muted);font-style:italic" id="lastUpdated"></div>
 </footer>
 <script>
@@ -400,9 +398,7 @@ rs();function draw(){x.clearRect(0,0,c.width,c.height);ps.forEach(p=>{x.beginPat
 // Cursor
 const cg=document.getElementById('cursorGlow');document.addEventListener('mousemove',e=>{cg.style.left=e.clientX-6+'px';cg.style.top=e.clientY-6+'px';});
 // Scroll progress + back to top
-const btt=document.getElementById('bttBtn');
-addEventListener('scroll',()=>{const h=document.documentElement;const p=Math.round((h.scrollTop/(h.scrollHeight-h.clientHeight))*100);document.getElementById('progressBar').style.width=p+'%';document.getElementById('scrollPct').textContent=p+'%';btt.classList.toggle('show',h.scrollTop>500);});
-btt.addEventListener('click',()=>scrollTo({top:0,behavior:'smooth'}));
+addEventListener('scroll',()=>{const h=document.documentElement;const p=Math.round((h.scrollTop/(h.scrollHeight-h.clientHeight))*100);document.getElementById('progressBar').style.width=p+'%';});
 // Clock
 (function ck(){const el=document.getElementById('liveClock');function t(){el.textContent=new Date().toLocaleTimeString('en-GB');}t();setInterval(t,1000);})();
 // Nav

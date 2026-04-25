@@ -1,7 +1,7 @@
 """
 UK Retail Footfall Intelligence Platform — ETL Pipeline
 ========================================================
-Author:  UK Business Analytics Student
+Author:  Ashima Faiza Salahudeen Alimajasmin
 Data:    ONS / BT Active Intelligence (Jul 2024 – Apr 2026)
 Purpose: Extract, validate, clean, transform, and export
          UK retail footfall index data for downstream analytics.

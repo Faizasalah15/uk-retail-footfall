@@ -301,9 +301,7 @@ Walk-forward validation with 3 models:
 ## 👤 Author
 
 **Ashima Faiza Salahudeen Alimajasmin**
-BSc Business Analytics · Queens University Belfast · 2026
 
-📧 [Contact via University Email]
 🔗 [LinkedIn](https://www.linkedin.com/in/ashima-faiza)
 💻 [GitHub](https://github.com/Faizasalah15)
 
