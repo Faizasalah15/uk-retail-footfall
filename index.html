@@ -2,13 +2,8 @@
 <html lang="en-GB">
 <head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>UK Retail Footfall Analytics | 12-Layer Intelligence Platform | ONS Data 2024-2026</title>
-<meta name="description" content="UK Retail Footfall Intelligence Platform — advanced business analytics portfolio project using ONS/BT Active Intelligence data. Features time-series forecasting, volatility risk matrix, and investment scoring across 14 UK regions.">
-<meta property="og:title" content="UK Retail Footfall Intelligence Platform">
-<meta property="og:description" content="12-layer analytics engine covering 14 UK regions, 90 weeks of ONS data. Regional benchmarking, forecasting, risk scoring and £-impact estimation.">
-<meta property="og:type" content="website"><meta name="twitter:card" content="summary_large_image">
-<meta name="author" content="Ashima Faiza Salahudeen Alimajasmin">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⬡</text></svg>">
+<title>UK Retail Footfall Intelligence Platform</title>
+<meta name="description" content="UK Retail Footfall Intelligence Platform — 12-layer analytics engine covering 14 UK regions, 3 site types, Jul 2024–Apr 2026. ONS/BT Active Intelligence.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Orbitron:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
@@ -109,12 +104,11 @@ select option{background:var(--bg1);color:var(--text)}
 @keyframes shimmer{0%{background-position:200% 0}100%{background-position:-200% 0}}
 .tbtn,.tab-btn,select,input{transition:all .3s cubic-bezier(.22,1,.36,1)}
 .hero-title{font-family:var(--font-h);text-transform:uppercase;line-height:1.3;margin-bottom:.6rem}
-.hero-title .line1{font-size:clamp(2rem,5vw,4.5rem);color:var(--text);opacity:0;filter:blur(8px);transform:translateY(20px);animation:heroReveal .6s ease-out .2s forwards}
-.hero-title .line2{font-size:clamp(2rem,5vw,4.5rem);color:var(--cyan);text-shadow:0 0 30px rgba(0,255,255,0.6),0 0 60px rgba(0,255,255,0.3);opacity:0;filter:blur(8px);transform:translateY(20px);animation:heroReveal .6s ease-out .5s forwards}
-@keyframes heroReveal{to{opacity:1;filter:blur(0);transform:translateY(0)}}
-.hero-line{height:2px;background:var(--cyan);box-shadow:0 0 10px var(--cyan);margin:.5rem 0;width:0;animation:lineGrow .8s ease-out 1.1s forwards;transform-origin:left}
+.hero-title .line1{font-size:clamp(2rem,5vw,4.5rem);color:var(--text)}
+.hero-title .line2{font-size:clamp(2rem,5vw,4.5rem);color:var(--cyan);text-shadow:0 0 30px rgba(0,255,255,0.6),0 0 60px rgba(0,255,255,0.3)}
+.hero-line{height:2px;background:var(--cyan);box-shadow:0 0 10px var(--cyan);margin:.5rem 0;animation:lineGrow 1.5s ease-out forwards;transform-origin:left;width:0}
 @keyframes lineGrow{to{width:100%}}
-.hero-powered{font-family:var(--font-h);font-size:.6rem;color:var(--dim);letter-spacing:4px;margin-bottom:1rem;opacity:0;animation:heroReveal .6s ease-out 1.5s forwards}
+.hero-powered{font-family:var(--font-h);font-size:.6rem;color:var(--dim);letter-spacing:4px;margin-bottom:1rem}
 .sparkline{height:35px;width:100%}
 .perf-badge{display:inline-block;padding:.3rem 1rem;border-radius:16px;font-size:.7rem;font-weight:700;font-family:var(--font-h)}
 .disclaimer{font-size:.65rem;color:var(--muted);font-style:italic;text-align:center;margin-top:.5rem}
@@ -123,69 +117,31 @@ select option{background:var(--bg1);color:var(--text)}
 .collapsible.open::after{transform:rotate(90deg)}
 .collapse-body{max-height:0;overflow:hidden;transition:max-height .4s}
 .collapse-body.open{max-height:1000px}
-footer{text-align:center;padding:2rem 1rem;font-size:.65rem;color:var(--muted);border-top:1px solid transparent;background:linear-gradient(var(--bg1),var(--bg1)) padding-box,linear-gradient(90deg,transparent,rgba(0,255,255,0.3),transparent) border-box;max-width:1440px;margin:0 auto}
+footer{text-align:center;padding:2rem 1rem;font-size:.65rem;color:var(--muted);border-top:1px solid rgba(0,255,255,0.08);max-width:1440px;margin:0 auto}
 footer span{color:var(--dim)}
 .tab-row{display:flex;gap:2px;margin-bottom:1rem}
 .tab-btn{background:rgba(0,255,255,0.04);border:1px solid rgba(0,255,255,0.1);color:var(--dim);padding:.35rem .8rem;border-radius:8px 8px 0 0;font-size:.65rem;cursor:pointer;font-family:var(--font-b);transition:all .3s}
 .tab-btn.active{background:rgba(0,255,255,0.12);color:var(--cyan);border-color:var(--cyan);border-bottom-color:transparent}
-.nav-links a{position:relative}
-.nav-links a::after{content:'';position:absolute;bottom:-2px;left:0;right:0;height:2px;background:var(--cyan);box-shadow:0 0 6px var(--cyan);transform:scaleX(0);transition:transform .3s}
-.nav-links a.active::after{transform:scaleX(1)}
-.nav-links a.active{background:none}
-.sec-dots{position:fixed;right:16px;top:50%;transform:translateY(-50%);z-index:999;display:flex;flex-direction:column;gap:12px}
-.sec-dots .dot{width:6px;height:6px;border-radius:50%;background:rgba(255,255,255,0.1);cursor:pointer;transition:all .3s;position:relative}
-.sec-dots .dot.active{width:10px;height:10px;background:var(--cyan);box-shadow:0 0 8px var(--cyan);margin-left:-2px}
-.sec-dots .dot.visited{background:rgba(0,255,255,0.4)}
-.sec-dots .dot:hover::before{content:attr(data-name);position:absolute;right:18px;top:50%;transform:translateY(-50%);background:rgba(3,8,20,0.95);border:1px solid rgba(0,255,255,0.3);color:var(--cyan);font-size:.55rem;font-family:var(--font-h);padding:3px 8px;border-radius:4px;white-space:nowrap}
-@keyframes skeleton{0%,100%{opacity:.4}50%{opacity:.8}}
-.chart-skeleton{position:absolute;inset:0;background:rgba(0,255,255,0.04);border-radius:8px;animation:skeleton 1.5s infinite;display:flex;align-items:center;justify-content:center;font-family:var(--font-h);font-size:.65rem;color:rgba(0,255,255,0.3);letter-spacing:2px;z-index:2}
-.chart-title-row{display:flex;justify-content:space-between;align-items:center;margin-bottom:.75rem}
-.chart-title-row .ct{font-family:var(--font-h);font-size:.7rem;color:rgba(0,255,255,0.7);letter-spacing:2px;text-transform:uppercase}
-.chart-title-row .cn{font-size:.6rem;color:#4A5568;font-style:italic}
-@keyframes cardPulse{0%{box-shadow:var(--glow1)}50%{box-shadow:var(--glow1),0 0 60px rgba(0,255,255,0.25)}100%{box-shadow:var(--glow1)}}
-@keyframes ripple{to{transform:scale(3);opacity:0}}
-.tbl tr:hover td:first-child{border-left:2px solid rgba(0,255,255,0.4);padding-left:calc(.5rem - 2px)}
-.scroll-pct{position:fixed;top:0;right:10px;font-size:.55rem;font-family:var(--font-h);color:var(--cyan);z-index:1002;line-height:2px;opacity:.7}
-.btt{position:fixed;bottom:24px;right:24px;width:40px;height:40px;border-radius:50%;background:rgba(0,255,255,0.15);border:1px solid rgba(0,255,255,0.3);color:var(--cyan);font-size:1.1rem;cursor:pointer;z-index:999;display:flex;align-items:center;justify-content:center;opacity:0;pointer-events:none;transition:all .3s;box-shadow:0 0 10px rgba(0,255,255,0.2)}
-.btt.show{opacity:1;pointer-events:auto}
-.btt:hover{transform:scale(1.1);box-shadow:0 0 20px rgba(0,255,255,0.4)}
-#loader{position:fixed;inset:0;background:var(--bg1);z-index:10000;display:flex;flex-direction:column;align-items:center;justify-content:center;transition:opacity .5s}
-.loader-logo{font-family:var(--font-h);font-size:clamp(1.2rem,3vw,2rem);color:var(--cyan);text-shadow:0 0 30px rgba(0,255,255,0.5);letter-spacing:4px;margin-bottom:1rem}
-.loader-text{font-family:var(--font-h);font-size:.65rem;color:var(--dim);letter-spacing:2px;margin-bottom:1.5rem}
-.loader-dots::after{content:'';animation:dots 1.5s steps(4,end) infinite}
-@keyframes dots{0%{content:''}25%{content:'.'}50%{content:'..'}75%{content:'...'}}
-.loader-bar-track{width:clamp(200px,40vw,400px);height:3px;background:rgba(0,255,255,0.1);border-radius:2px;overflow:hidden}
-.loader-bar{height:100%;width:0;background:linear-gradient(90deg,var(--cyan),var(--teal));border-radius:2px;transition:width .05s}
-.mobile-scroll-hint{display:none;font-size:.6rem;color:var(--muted);font-style:italic;text-align:center;margin-top:.3rem}
-@media(max-width:768px){.chart-wrap{min-height:220px!important}.sec-num{font-size:60px;top:0;right:5px;opacity:.04}.mobile-scroll-hint{display:block}}
-@media(max-width:480px){.kpi-grid{grid-template-columns:1fr 1fr}.kpi-val{font-size:2rem!important}}
-@media(max-width:1024px){.sec-dots{display:none}}
 </style>
 </head>
 <body>
-<div id="loader"><div class="loader-logo">⬡ UK FOOTFALL INTELLIGENCE</div><div class="loader-text">INITIALISING 12-LAYER ANALYTICS ENGINE<span class="loader-dots"></span></div><div class="loader-bar-track"><div class="loader-bar" id="loaderBar"></div></div></div>
 <div class="pgrid"></div>
 <canvas id="particleBg"></canvas>
 <div class="cursor-glow" id="cursorGlow"></div>
-<div class="progress-bar" id="progressBar"></div><span class="scroll-pct" id="scrollPct">0%</span>
+<div class="progress-bar" id="progressBar"></div>
 <nav><div class="nav-inner">
 <div class="nav-logo">⬡ UK FOOTFALL INTELLIGENCE</div>
 <button class="hamburger" id="hamBtn">☰</button>
 <div class="nav-links" id="navLinks">
 <a href="#s1">Control</a><a href="#s2">Regional</a><a href="#s3">Sites</a><a href="#s4">Risk</a><a href="#s5">Seasonal</a><a href="#s6">Commercial</a><a href="#s7">Forecast</a><a href="#s8">Alerts</a><a href="#s9">Invest</a><a href="#s10">Brief</a>
 </div>
-<div class="nav-live"><span style="font-size:.55rem;color:rgba(123,97,255,0.8);border:1px solid rgba(123,97,255,0.3);padding:2px 6px;border-radius:4px;font-family:var(--font-h);margin-right:8px">12-LAYER ENGINE</span><span id="liveClock"></span> LIVE DATA</div>
+<div class="nav-live"><span id="liveClock"></span> LIVE DATA</div>
 </div></nav>
-<div class="sec-dots" id="secDots"></div>
-<button class="btt" id="bttBtn" title="Back to top">↑</button>
 <main>
 <section id="s1"><span class="sec-num">01</span>
-<h2 class="hero-title" id="heroTitle"><div class="line1">UK RETAIL FOOTFALL</div><div class="line2">INTELLIGENCE PLATFORM</div></h2>
-<div class="hero-line"></div>
-<div class="hero-powered">POWERED BY 12-LAYER ANALYTICS ENGINE</div>
-<div class="sec-sub">ONS / BT Active Intelligence · 24M devices · 14 regions · 3 site types · Jul 2024–Apr 2026</div>
-<div style="font-size:.78rem;color:#8892A4;max-width:700px;line-height:1.8;margin-bottom:1rem;padding:.75rem 1rem;border-left:2px solid rgba(0,255,255,0.4);background:rgba(0,255,255,0.03);border-radius:0 8px 8px 0">Analysing 90 weeks of official ONS/BT Active Intelligence retail footfall data across 14 UK regions and 3 site types using a 12-layer analytics engine — benchmarking, forecasting, risk scoring, and £-impact estimation for strategic retail decisions.</div>
 <div class="ticker"><div class="ticker-inner" id="ticker"></div></div>
+<h2 id="heroTitle"></h2>
+<div class="sec-sub">ONS / BT Active Intelligence · 24M devices · 14 regions · 3 site types · Jul 2024–Apr 2026</div>
 <div class="kpi-grid" id="heroKpis"></div>
 <div style="display:flex;gap:.5rem;margin-top:1rem;flex-wrap:wrap" id="statusPills"></div>
 </section>
@@ -246,8 +202,7 @@ footer span{color:var(--dim)}
 <footer>
 <div style="margin-bottom:.5rem"><span>UK Retail Footfall Intelligence Platform</span> · Data: ONS / BT Active Intelligence · Crown Copyright OGL v3.0</div>
 <div>90 weeks · 14 regions · 3 site types · 1,260 data points · 24M devices · <span style="color:var(--cyan)">12-Layer Analytics Engine</span></div>
-<div style="margin-top:.8rem;border-top:1px solid rgba(0,255,255,0.1);padding-top:.8rem"><span style="font-family:var(--font-h);font-size:.65rem;color:var(--cyan);letter-spacing:2px">Built by Ashima Faiza Salahudeen Alimajasmin</span><br><span style="font-size:.6rem;color:var(--dim)">BSc Business Analytics · Queens University Belfast · April 2026</span></div>
-<div style="margin-top:.4rem;font-size:.6rem;color:var(--muted);font-style:italic" id="lastUpdated"></div>
+<div style="margin-top:.4rem;color:var(--dim)">Built as portfolio project demonstrating advanced business analytics capability</div>
 </footer>
 <script>
 
@@ -378,61 +333,46 @@ const rat=`${RL[i]}: ${b.status.toLowerCase()} benchmark, ${m.signal.toLowerCase
 return{r,label:RL[i],score,grade,rec,rationale:rat,dims:[Math.round(d1),Math.round(d2),Math.round(d3),Math.round(d4),Math.round(d5),Math.round(d6)]};
 }).sort((a,b)=>b.score-a.score);
 
-// === LOADER ===
-window.addEventListener('load',()=>{const bar=document.getElementById('loaderBar');let w=0;const fill=setInterval(()=>{w+=2;bar.style.width=w+'%';if(w>=100){clearInterval(fill);setTimeout(()=>{document.getElementById('loader').style.opacity='0';setTimeout(()=>{document.getElementById('loader').style.display='none';},500);},300);}},25);});
-
 
 // === UTILITIES ===
-const charts={};const rendered={};
+const charts={};
 function dc(id){if(charts[id]){charts[id].destroy();delete charts[id];}}
 function makeBase(id){return{id,afterDraw(c){const{ctx,chartArea:a,scales:{y}}=c;if(!a||!y)return;const py=y.getPixelForValue(100);if(py>=a.top&&py<=a.bottom){ctx.save();ctx.setLineDash([6,4]);ctx.strokeStyle='rgba(0,255,255,0.3)';ctx.lineWidth=1;ctx.beginPath();ctx.moveTo(a.left,py);ctx.lineTo(a.right,py);ctx.stroke();ctx.restore();}}};}
 function grad(ctx,c,h){const g=ctx.createLinearGradient(0,0,0,h||300);g.addColorStop(0,c+'CC');g.addColorStop(0.5,c+'44');g.addColorStop(1,c+'00');return g;}
-function addChartTitle(parent,title,note){const r=document.createElement('div');r.className='chart-title-row';r.innerHTML=`<span class="ct">${title}</span><span class="cn">${note}</span>`;parent.insertBefore(r,parent.firstChild);}
-function addSkeleton(wrap,label){const s=document.createElement('div');s.className='chart-skeleton';s.textContent=label||'LOADING...';wrap.style.position='relative';wrap.appendChild(s);return s;}
 const ttBase={enabled:true,mode:'index',intersect:false,backgroundColor:'rgba(3,8,20,0.97)',borderColor:'rgba(0,255,255,0.4)',borderWidth:1,titleFont:{family:'Orbitron',size:11,weight:'600'},bodyFont:{family:'Inter',size:11},footerFont:{family:'Inter',size:10,style:'italic'},titleColor:'#00FFFF',bodyColor:'#C8D0DC',footerColor:'#8892A4',padding:12,cornerRadius:10,caretSize:6,displayColors:true,boxWidth:10,boxHeight:10,boxPadding:4,multiKeyBackground:'transparent',callbacks:{title:items=>`Week: ${items[0].label}`,label:item=>{const v=item.raw;if(v===null)return null;const d=(v-100).toFixed(1);const ar=d>0?'▲':d<0?'▼':'●';return` ${item.dataset.label}: ${v}  ${ar} ${d>0?'+':''}${d} vs baseline`;},footer:items=>{const vals=items.map(i=>i.raw).filter(v=>v!==null);if(!vals.length)return'';return`Avg: ${(vals.reduce((a,b)=>a+b)/vals.length).toFixed(1)}  |  High: ${Math.max(...vals).toFixed(1)}  |  Low: ${Math.min(...vals).toFixed(1)}`;}}}
-const chartDef={responsive:true,maintainAspectRatio:false,interaction:{mode:'index',intersect:false,axis:'x'},hover:{mode:'index',intersect:false},animation:{duration:2000,easing:'easeInOutQuart',onComplete(){this.canvas.style.filter='drop-shadow(0 0 8px rgba(0,255,255,0.2))';const sk=this.canvas.parentElement.querySelector('.chart-skeleton');if(sk)sk.remove();}},plugins:{legend:{display:false},tooltip:ttBase},scales:{x:{ticks:{color:'#7A8494',font:{size:10,family:'Inter'},maxTicksLimit:12},grid:{color:'rgba(0,255,255,0.04)'}},y:{ticks:{color:'#7A8494',font:{size:10,family:'Inter'}},grid:{color:'rgba(0,255,255,0.06)'}}}};
+const chartDef={responsive:true,maintainAspectRatio:false,interaction:{mode:'index',intersect:false,axis:'x'},hover:{mode:'index',intersect:false},animation:{duration:2000,easing:'easeInOutQuart',onComplete(){this.canvas.style.filter='drop-shadow(0 0 8px rgba(0,255,255,0.2))';}},plugins:{legend:{display:false},tooltip:ttBase},scales:{x:{ticks:{color:'#7A8494',font:{size:10,family:'Inter'},maxTicksLimit:12},grid:{color:'rgba(0,255,255,0.04)'}},y:{ticks:{color:'#7A8494',font:{size:10,family:'Inter'}},grid:{color:'rgba(0,255,255,0.06)'}}}};
 const ptHover={pointHoverRadius:7,pointHoverBackgroundColor:'#00FFFF',pointHoverBorderColor:'rgba(0,255,255,0.5)',pointHoverBorderWidth:3};
 function fmt$(n){return n>=1e6?'£'+(n/1e6).toFixed(1)+'M':n>=1e3?'£'+(n/1e3).toFixed(0)+'K':'£'+n;}
 function fmtN(n){return n>=1e6?(n/1e6).toFixed(1)+'M':n>=1e3?(n/1e3).toFixed(0)+'K':n.toString();}
 // Particles
-(function(){const c=document.getElementById('particleBg'),x=c.getContext('2d');let ps=[];const pCount=innerWidth<768?30:70;function rs(){c.width=innerWidth;c.height=innerHeight;ps=[];for(let i=0;i<pCount;i++)ps.push({x:Math.random()*c.width,y:Math.random()*c.height,r:Math.random()*1.5+.3,dx:(Math.random()-.5)*.3,dy:(Math.random()-.5)*.2,o:Math.random()*.5+.2});}
+(function(){const c=document.getElementById('particleBg'),x=c.getContext('2d');let ps=[];function rs(){c.width=innerWidth;c.height=innerHeight;ps=[];for(let i=0;i<70;i++)ps.push({x:Math.random()*c.width,y:Math.random()*c.height,r:Math.random()*1.5+.3,dx:(Math.random()-.5)*.3,dy:(Math.random()-.5)*.2,o:Math.random()*.5+.2});}
 rs();function draw(){x.clearRect(0,0,c.width,c.height);ps.forEach(p=>{x.beginPath();x.arc(p.x,p.y,p.r,0,Math.PI*2);x.fillStyle=`rgba(0,255,255,${p.o})`;x.fill();p.x+=p.dx;p.y+=p.dy;if(p.x<0)p.x=c.width;if(p.x>c.width)p.x=0;if(p.y<0)p.y=c.height;if(p.y>c.height)p.y=0;});requestAnimationFrame(draw);}draw();addEventListener('resize',rs);})();
-// Cursor
+// Cursor glow
 const cg=document.getElementById('cursorGlow');document.addEventListener('mousemove',e=>{cg.style.left=e.clientX-6+'px';cg.style.top=e.clientY-6+'px';});
-// Scroll progress + back to top
-const btt=document.getElementById('bttBtn');
-addEventListener('scroll',()=>{const h=document.documentElement;const p=Math.round((h.scrollTop/(h.scrollHeight-h.clientHeight))*100);document.getElementById('progressBar').style.width=p+'%';document.getElementById('scrollPct').textContent=p+'%';btt.classList.toggle('show',h.scrollTop>500);});
-btt.addEventListener('click',()=>scrollTo({top:0,behavior:'smooth'}));
+// Progress bar
+addEventListener('scroll',()=>{const h=document.documentElement;const p=(h.scrollTop/(h.scrollHeight-h.clientHeight))*100;document.getElementById('progressBar').style.width=p+'%';});
 // Clock
 (function ck(){const el=document.getElementById('liveClock');function t(){el.textContent=new Date().toLocaleTimeString('en-GB');}t();setInterval(t,1000);})();
 // Nav
 document.getElementById('hamBtn').addEventListener('click',()=>document.getElementById('navLinks').classList.toggle('open'));
 const navAs=document.querySelectorAll('.nav-links a');
-// Section dots
-const secNames=['Control','Regional','Sites','Risk','Seasonal','Commercial','Forecast','Alerts','Invest','Brief'];
-const secDotsEl=document.getElementById('secDots');
-secNames.forEach((n,i)=>{const d=document.createElement('div');d.className='dot';d.setAttribute('data-name',n);d.addEventListener('click',()=>document.getElementById('s'+(i+1)).scrollIntoView({behavior:'smooth'}));secDotsEl.appendChild(d);});
-const visited=new Set();
-const observer=new IntersectionObserver(es=>{es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('visible');const id=e.target.id;const idx=parseInt(id?.replace('s',''))-1;visited.add(idx);
-navAs.forEach(a=>{a.classList.toggle('active',a.getAttribute('href')==='#'+id);});
-document.querySelectorAll('.sec-dots .dot').forEach((d,i)=>{d.classList.toggle('active',i===idx);d.classList.toggle('visited',visited.has(i)&&i!==idx);});}});},{threshold:0.15});
+const observer=new IntersectionObserver(es=>{es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('visible');navAs.forEach(a=>{a.classList.toggle('active',a.getAttribute('href')==='#'+e.target.id);});}});},{threshold:0.15});
 document.querySelectorAll('section').forEach(s=>observer.observe(s));
 // Count-up
 function countUp(el,target,dur=2000){const s=performance.now();el.textContent='0';(function a(now){const p=Math.min((now-s)/dur,1);const ease=1-Math.pow(1-p,3);el.textContent=target>=1000?fmtN(Math.round(target*ease)):Math.round(target*ease*10)/10;if(p<1)requestAnimationFrame(a);})(s);}
-// Timestamp
-document.getElementById('lastUpdated').textContent='Last updated: '+new Date().toLocaleDateString('en-GB',{weekday:'short',day:'numeric',month:'short',year:'numeric'});
 
 // === S1: MISSION CONTROL ===
+const ht=document.getElementById('heroTitle');
+ht.className='hero-title';ht.innerHTML='<div class="line1"></div><div class="line2"></div>';
+function typeWriter(el,text,delay,cb){let i=0;(function t(){if(i<text.length){el.textContent+=text[i];i++;setTimeout(t,delay);}else if(cb)cb();})();}
+typeWriter(ht.querySelector('.line1'),'UK RETAIL FOOTFALL',80,()=>{typeWriter(ht.querySelector('.line2'),'INTELLIGENCE PLATFORM',80,()=>{const ln=document.createElement('div');ln.className='hero-line';ht.after(ln);const pw=document.createElement('div');pw.className='hero-powered';pw.textContent='POWERED BY 12-LAYER ANALYTICS ENGINE';ln.after(pw);});});
 const tItems=EVENTS.map(e=>`${e.label} (${e.date})`).concat(A.bench.slice(0,5).map(b=>`${b.label}: ${b.val}`));
-tItems.push(`Last updated: ${new Date().toLocaleDateString('en-GB',{weekday:'short',day:'numeric',month:'short',year:'numeric'})}`);
 document.getElementById('ticker').textContent=tItems.join('  ◆  ');
-const kpiColors=['var(--cyan)','var(--teal)','var(--violet)','var(--gold)'];
 const kpis=[{v:lat.UK_total,l:'Latest UK Index',s:`Week ending ${lat.date}`,u:'INDEX'},{v:14,l:'Regions Tracked',s:'All UK ITL1 regions',u:'REGIONS'},{v:90,l:'Weeks of Data',s:'Jul 2024 – Apr 2026',u:'WEEKS'},{v:1260,l:'Data Points',s:'90 weeks × 14 regions',u:'POINTS'}];
 const kg=document.getElementById('heroKpis');
 kpis.forEach((k,i)=>{const d=document.createElement('div');d.className='hero-card kpi';d.style.animationDelay=i*0.15+'s';
-d.style.background=`radial-gradient(ellipse at top,rgba(0,255,255,0.08) 0%,rgba(0,15,35,0.95) 60%)`;d.style.borderTop=`2px solid ${['#00FFFF','#00E5CC','#7B61FF','#FFD700'][i]}`;
 d.innerHTML=`<div class="kpi-unit">${k.u}</div><div class="kpi-val" id="kpi${i}">0</div><div class="kpi-label">${k.l}</div><div class="kpi-sub">${k.s}</div>`;kg.appendChild(d);
-setTimeout(()=>{const el=document.getElementById('kpi'+i);countUp(el,k.v);setTimeout(()=>{el.classList.add('glow');el.closest('.kpi').style.animation='cardPulse 1s ease-out';},2200);},300+i*200);});
+setTimeout(()=>{const el=document.getElementById('kpi'+i);countUp(el,k.v);setTimeout(()=>el.classList.add('glow'),2200);},300+i*200);});
 const topR=A.bench.filter(b=>b.r!=='UK_total').sort((a,b)=>b.val-a.val)[0];
 const improved=A.mom.filter(b=>b.r!=='UK_total').sort((a,b)=>b.avg4w-a.avg4w)[0];
 const alertCt=A.alerts.filter(a=>a.rag==='RED').length;
@@ -443,11 +383,8 @@ pills.innerHTML=`<span class="pill pill-green">▲ Top: ${topR.label} (${topR.va
 document.getElementById('s2sub').textContent='Weekly footfall index across all 14 UK regions with event markers';
 const rt=document.getElementById('regToggles');let activeRegs=new Set(['UK_total','London','Scotland','North_East']);
 R.forEach((r,i)=>{const b=document.createElement('button');b.className='tbtn'+(activeRegs.has(r)?' active':'');b.textContent=RL[i];
-b.addEventListener('click',function(e){activeRegs.has(r)?activeRegs.delete(r):activeRegs.add(r);this.classList.toggle('active');drawRegional();
-const rp=document.createElement('span');rp.style.cssText=`position:absolute;width:20px;height:20px;background:rgba(0,255,255,0.3);border-radius:50%;transform:scale(0);animation:ripple .4s ease-out forwards;left:${e.offsetX-10}px;top:${e.offsetY-10}px;pointer-events:none`;this.style.position='relative';this.style.overflow='hidden';this.appendChild(rp);setTimeout(()=>rp.remove(),400);});rt.appendChild(b);});
+b.addEventListener('click',()=>{activeRegs.has(r)?activeRegs.delete(r):activeRegs.add(r);b.classList.toggle('active');drawRegional();});rt.appendChild(b);});
 function drawRegional(){dc('reg');const ctx=document.getElementById('chRegional');ctx.style.cursor='crosshair';ctx.parentElement.style.minHeight='380px';
-if(activeRegs.size===0){ctx.parentElement.innerHTML='<div style="display:flex;align-items:center;justify-content:center;min-height:380px;font-family:var(--font-h);font-size:.7rem;color:rgba(0,255,255,0.4);animation:skeleton 1.5s infinite">SELECT REGIONS ABOVE TO COMPARE</div>';return;}
-addSkeleton(ctx.parentElement,'RENDERING CHART...');
 const ds=R.filter(r=>activeRegs.has(r)).map((r,i)=>{const ci=R.indexOf(r);return{label:RL[ci],data:WR.map(w=>w[r]),borderColor:RC[ci],backgroundColor:grad(ctx.getContext('2d'),RC[ci],380),fill:ci===0,borderWidth:r==='UK_total'?2.5:1.3,pointRadius:0,...ptHover,tension:.3};});
 charts.reg=new Chart(ctx,{type:'line',data:{labels:WR.map(w=>w.date),datasets:ds},options:{...chartDef,plugins:{...chartDef.plugins,legend:{display:true,labels:{color:'#8892A4',font:{size:9,family:'Inter'},boxWidth:12,padding:8}}}},plugins:[makeBase('bl1')]});}
 drawRegional();
@@ -537,9 +474,7 @@ it.innerHTML=`<thead><tr><th>Region</th><th>Index Δ YTD</th><th>Est. Visits</th
 ds.map(d=>{const pri=Math.abs(d.revenue)>totRev/R.length*1.5?'HIGH':Math.abs(d.revenue)>totRev/R.length*.5?'MEDIUM':'LOW';const pc=pri==='HIGH'?'pill-green':pri==='MEDIUM'?'pill-cyan':'pill-amber';
 return`<tr><td>${d.label}</td><td style="color:${d.change>=0?'var(--success)':'var(--alert)'}">${d.change>0?'+':''}${d.change}</td><td>${fmtN(Math.abs(d.visits))}</td><td>${fmt$(Math.abs(d.revenue))}</td><td>${fmt$(Math.abs(d.margin))}</td><td><span class="pill ${pc}">${pri}</span></td></tr>`;}).join('')+'</tbody>';}
 renderCommercial();
-let commercialTimer;
-function debouncedRender(){clearTimeout(commercialTimer);commercialTimer=setTimeout(renderCommercial,50);}
-['slSpend','slVisits','slMargin'].forEach(id=>document.getElementById(id).addEventListener('input',debouncedRender));
+['slSpend','slVisits','slMargin'].forEach(id=>document.getElementById(id).addEventListener('input',renderCommercial));
 
 // === S7: FORECAST ===
 const fcTabs=document.getElementById('fcTabs');let fcModel='ensemble';
@@ -621,18 +556,10 @@ es.innerHTML=`<h3 style="font-family:var(--font-h);font-size:.85rem;color:var(--
 <p style="margin-bottom:.6rem">Seasonal analysis reveals a pronounced December peak reaching 130+ on the index, followed by a January correction to approximately 87–92. District & Local Centres maintain the highest sustained performance at ${latS.District_Local}, whilst Town & City Centres show the strongest seasonal variation and Christmas spike.</p>
 <p>The risk alert system currently flags ${reds} red and ${ambs} amber alerts across the regional portfolio. Forward-looking projections from the ensemble forecasting model suggest ${A.calendar.filter(c=>c.pred>100).length} of the next 12 weeks will trade above baseline, supporting cautious optimism for the near-term retail outlook.</p>
 <div style="margin-top:1rem;border-top:1px solid var(--border3);padding-top:.8rem"><div class="collapsible" onclick="this.classList.toggle('open');this.nextElementSibling.classList.toggle('open')"><span style="font-family:var(--font-h);font-size:.65rem;color:var(--dim)">DATA METHODOLOGY</span></div>
-<div class="collapse-body"><p style="font-size:.65rem;color:var(--muted);margin-top:.5rem;line-height:1.7">This platform applies a 12-layer analytics engine to ONS/BT Active Intelligence footfall data covering 24 million UK mobile devices. Layers include: dual benchmarking, recovery rate scoring, event impact analysis, volatility risk matrix, week-on-week momentum, commercial impact estimation, site type × region modelling, seasonal planning, statistical significance testing (z-test, p<0.05), inter-regional Pearson correlation with lagged leading indicators, 5-rule risk alert system, and a 6-dimension weighted investment scoring model. All computations are performed client-side in JavaScript for transparency and reproducibility.</p></div></div>
-<div style="margin-top:.8rem;font-size:.6rem;color:var(--muted);font-style:italic;border-top:1px solid var(--border3);padding-top:.6rem">Note: Index values are modelled representations based on ONS/BT Active Intelligence methodology. Commercial impact figures are indicative estimates for portfolio demonstration purposes only.</div>
-<button id="copySummary" style="margin-top:.8rem;background:rgba(0,255,255,0.08);border:1px solid rgba(0,255,255,0.2);color:var(--cyan);padding:.4rem 1rem;border-radius:6px;font-family:var(--font-h);font-size:.6rem;cursor:pointer;letter-spacing:1px;transition:all .3s" onmouseover="this.style.background='rgba(0,255,255,0.15)'" onmouseout="this.style.background='rgba(0,255,255,0.08)'" onclick="const t=document.getElementById('execSummary').innerText;navigator.clipboard.writeText(t).then(()=>{this.textContent='✓ Copied!';setTimeout(()=>this.textContent='📋 Copy summary to clipboard',2000);})">📋 Copy summary to clipboard</button>`;
-
+<div class="collapse-body"><p style="font-size:.65rem;color:var(--muted);margin-top:.5rem;line-height:1.7">This platform applies a 12-layer analytics engine to ONS/BT Active Intelligence footfall data covering 24 million UK mobile devices. Layers include: dual benchmarking, recovery rate scoring, event impact analysis, volatility risk matrix, week-on-week momentum, commercial impact estimation, site type × region modelling, seasonal planning, statistical significance testing (z-test, p<0.05), inter-regional Pearson correlation with lagged leading indicators, 5-rule risk alert system, and a 6-dimension weighted investment scoring model. All computations are performed client-side in JavaScript for transparency and reproducibility.</p></div></div>`;
 
 // Resize
 let resizeTimer;addEventListener('resize',()=>{clearTimeout(resizeTimer);resizeTimer=setTimeout(()=>{Object.values(charts).forEach(c=>{if(c&&c.resize)c.resize();});},250);});
-// Keyboard nav
-document.addEventListener('keydown',e=>{const secs=document.querySelectorAll('section');if(e.key>='1'&&e.key<='9'){secs[+e.key-1]?.scrollIntoView({behavior:'smooth'});}else if(e.key==='0'){secs[9]?.scrollIntoView({behavior:'smooth'});}});
-// Chart titles
-const chartTitles=[['chRegional','Weekly Footfall Index by Region','90 weeks · index 2023=100'],['chSiteArea','Site Type Performance Over Time','District, Retail Parks, Town Centres'],['chScatter','Performance vs Volatility Matrix','Mean index vs std deviation'],['chForecast','UK Total Footfall Forecast','Ensemble model · 95% CI shown'],['chInvest','Regional Investment Score Ranking','6-dimension composite · 0–100'],['chRadar','Top 2 Regions — Dimension Comparison','Normalised 0–100 per dimension']];
-chartTitles.forEach(([id,t,n])=>{const el=document.getElementById(id);if(el){const wrap=el.closest('.chart-wrap');if(wrap)addChartTitle(wrap.parentElement,t,n);}});
 
 
 
