@@ -1,0 +1,15 @@
+region,PC1,PC2,cluster
+UK Total,1.6095,1.1563,Recovering Regions
+England,1.9043,0.6189,Recovering Regions
+Northern Ireland,-5.5925,-1.7556,Stable Mid-Tier
+Scotland,-3.5472,-1.4922,Stable Mid-Tier
+Wales,-0.62,0.6938,Recovering Regions
+East of England,1.7936,-1.1534,High-Performance Metros
+East Midlands,0.2974,1.3128,Recovering Regions
+London,2.936,-3.3392,High-Performance Metros
+North East,-1.6145,2.0603,Recovering Regions
+North West,0.4481,0.2285,Recovering Regions
+South East,2.1532,-0.8202,High-Performance Metros
+South West,0.7972,-0.3926,Recovering Regions
+West Midlands,0.6675,1.3776,Recovering Regions
+Yorkshire & Humber,-1.2327,1.5049,Recovering Regions

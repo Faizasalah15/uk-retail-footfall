@@ -1,0 +1,1261 @@
+week_ending,year,month,week_number,quarter,season,is_holiday_week,region,footfall_index,region_label,above_baseline
+2024-07-07,2024,7,27,3,Summer,False,UK_total,111.8,UK Total,True
+2024-07-14,2024,7,28,3,Summer,False,UK_total,112.8,UK Total,True
+2024-07-21,2024,7,29,3,Summer,False,UK_total,116.1,UK Total,True
+2024-07-28,2024,7,30,3,Summer,False,UK_total,115.3,UK Total,True
+2024-08-04,2024,8,31,3,Summer,False,UK_total,116.4,UK Total,True
+2024-08-11,2024,8,32,3,Summer,False,UK_total,119.4,UK Total,True
+2024-08-18,2024,8,33,3,Summer,False,UK_total,117.2,UK Total,True
+2024-08-25,2024,8,34,3,Summer,False,UK_total,115.2,UK Total,True
+2024-09-01,2024,9,35,3,Autumn,False,UK_total,117.5,UK Total,True
+2024-09-08,2024,9,36,3,Autumn,False,UK_total,115.4,UK Total,True
+2024-09-15,2024,9,37,3,Autumn,False,UK_total,114.1,UK Total,True
+2024-09-22,2024,9,38,3,Autumn,False,UK_total,112.4,UK Total,True
+2024-09-29,2024,9,39,3,Autumn,False,UK_total,106.9,UK Total,True
+2024-10-06,2024,10,40,4,Autumn,False,UK_total,109.0,UK Total,True
+2024-10-13,2024,10,41,4,Autumn,False,UK_total,106.9,UK Total,True
+2024-10-20,2024,10,42,4,Autumn,False,UK_total,105.3,UK Total,True
+2024-10-27,2024,10,43,4,Autumn,False,UK_total,103.6,UK Total,True
+2024-11-03,2024,11,44,4,Autumn,False,UK_total,105.1,UK Total,True
+2024-11-10,2024,11,45,4,Autumn,False,UK_total,106.7,UK Total,True
+2024-11-17,2024,11,46,4,Autumn,False,UK_total,108.5,UK Total,True
+2024-11-24,2024,11,47,4,Autumn,False,UK_total,113.7,UK Total,True
+2024-12-01,2024,12,48,4,Winter,False,UK_total,117.3,UK Total,True
+2024-12-08,2024,12,49,4,Winter,True,UK_total,127.7,UK Total,True
+2024-12-15,2024,12,50,4,Winter,True,UK_total,133.5,UK Total,True
+2024-12-22,2024,12,51,4,Winter,True,UK_total,136.7,UK Total,True
+2024-12-29,2024,12,52,4,Winter,True,UK_total,132.8,UK Total,True
+2025-01-05,2025,1,1,1,Winter,True,UK_total,92.5,UK Total,False
+2025-01-12,2025,1,2,1,Winter,False,UK_total,90.7,UK Total,False
+2025-01-19,2025,1,3,1,Winter,False,UK_total,90.2,UK Total,False
+2025-01-26,2025,1,4,1,Winter,False,UK_total,93.6,UK Total,False
+2025-02-02,2025,2,5,1,Winter,False,UK_total,98.8,UK Total,False
+2025-02-09,2025,2,6,1,Winter,False,UK_total,98.7,UK Total,False
+2025-02-16,2025,2,7,1,Winter,False,UK_total,101.5,UK Total,True
+2025-02-23,2025,2,8,1,Winter,False,UK_total,103.7,UK Total,True
+2025-03-02,2025,3,9,1,Spring,False,UK_total,101.2,UK Total,True
+2025-03-09,2025,3,10,1,Spring,False,UK_total,102.8,UK Total,True
+2025-03-16,2025,3,11,1,Spring,False,UK_total,103.7,UK Total,True
+2025-03-23,2025,3,12,1,Spring,False,UK_total,105.0,UK Total,True
+2025-03-30,2025,3,13,1,Spring,False,UK_total,105.0,UK Total,True
+2025-04-06,2025,4,14,2,Spring,False,UK_total,101.5,UK Total,True
+2025-04-13,2025,4,15,2,Spring,False,UK_total,103.9,UK Total,True
+2025-04-20,2025,4,16,2,Spring,False,UK_total,104.5,UK Total,True
+2025-04-27,2025,4,17,2,Spring,False,UK_total,101.7,UK Total,True
+2025-05-04,2025,5,18,2,Spring,False,UK_total,102.0,UK Total,True
+2025-05-11,2025,5,19,2,Spring,False,UK_total,101.8,UK Total,True
+2025-05-18,2025,5,20,2,Spring,False,UK_total,104.7,UK Total,True
+2025-05-25,2025,5,21,2,Spring,False,UK_total,102.8,UK Total,True
+2025-06-01,2025,6,22,2,Summer,False,UK_total,105.7,UK Total,True
+2025-06-08,2025,6,23,2,Summer,False,UK_total,104.3,UK Total,True
+2025-06-15,2025,6,24,2,Summer,False,UK_total,107.5,UK Total,True
+2025-06-22,2025,6,25,2,Summer,False,UK_total,108.9,UK Total,True
+2025-06-29,2025,6,26,2,Summer,False,UK_total,109.8,UK Total,True
+2025-07-06,2025,7,27,3,Summer,False,UK_total,111.1,UK Total,True
+2025-07-13,2025,7,28,3,Summer,False,UK_total,115.1,UK Total,True
+2025-07-20,2025,7,29,3,Summer,False,UK_total,116.3,UK Total,True
+2025-07-27,2025,7,30,3,Summer,False,UK_total,115.6,UK Total,True
+2025-08-03,2025,8,31,3,Summer,False,UK_total,116.7,UK Total,True
+2025-08-10,2025,8,32,3,Summer,False,UK_total,119.1,UK Total,True
+2025-08-17,2025,8,33,3,Summer,False,UK_total,116.5,UK Total,True
+2025-08-24,2025,8,34,3,Summer,False,UK_total,116.5,UK Total,True
+2025-08-31,2025,8,35,3,Summer,False,UK_total,113.8,UK Total,True
+2025-09-07,2025,9,36,3,Autumn,False,UK_total,112.9,UK Total,True
+2025-09-14,2025,9,37,3,Autumn,False,UK_total,113.7,UK Total,True
+2025-09-21,2025,9,38,3,Autumn,False,UK_total,108.5,UK Total,True
+2025-09-28,2025,9,39,3,Autumn,False,UK_total,107.9,UK Total,True
+2025-10-05,2025,10,40,4,Autumn,False,UK_total,107.6,UK Total,True
+2025-10-12,2025,10,41,4,Autumn,False,UK_total,105.7,UK Total,True
+2025-10-19,2025,10,42,4,Autumn,False,UK_total,103.6,UK Total,True
+2025-10-26,2025,10,43,4,Autumn,False,UK_total,103.3,UK Total,True
+2025-11-02,2025,11,44,4,Autumn,False,UK_total,105.4,UK Total,True
+2025-11-09,2025,11,45,4,Autumn,False,UK_total,104.7,UK Total,True
+2025-11-16,2025,11,46,4,Autumn,False,UK_total,107.1,UK Total,True
+2025-11-23,2025,11,47,4,Autumn,False,UK_total,111.1,UK Total,True
+2025-11-30,2025,11,48,4,Autumn,False,UK_total,120.5,UK Total,True
+2025-12-07,2025,12,49,4,Winter,True,UK_total,125.9,UK Total,True
+2025-12-14,2025,12,50,4,Winter,True,UK_total,134.3,UK Total,True
+2025-12-21,2025,12,51,4,Winter,True,UK_total,135.0,UK Total,True
+2025-12-28,2025,12,52,4,Winter,True,UK_total,131.7,UK Total,True
+2026-01-04,2026,1,1,1,Winter,True,UK_total,91.2,UK Total,False
+2026-01-11,2026,1,2,1,Winter,False,UK_total,89.0,UK Total,False
+2026-01-18,2026,1,3,1,Winter,False,UK_total,92.3,UK Total,False
+2026-01-25,2026,1,4,1,Winter,False,UK_total,94.7,UK Total,False
+2026-02-01,2026,2,5,1,Winter,False,UK_total,99.0,UK Total,False
+2026-02-08,2026,2,6,1,Winter,False,UK_total,99.7,UK Total,False
+2026-02-15,2026,2,7,1,Winter,False,UK_total,103.1,UK Total,True
+2026-02-22,2026,2,8,1,Winter,False,UK_total,100.9,UK Total,True
+2026-03-01,2026,3,9,1,Spring,False,UK_total,102.9,UK Total,True
+2026-03-08,2026,3,10,1,Spring,False,UK_total,103.6,UK Total,True
+2026-03-15,2026,3,11,1,Spring,False,UK_total,101.9,UK Total,True
+2026-03-22,2026,3,12,1,Spring,False,UK_total,101.5,UK Total,True
+2024-07-07,2024,7,27,3,Summer,False,England,115.1,England,True
+2024-07-14,2024,7,28,3,Summer,False,England,113.8,England,True
+2024-07-21,2024,7,29,3,Summer,False,England,115.0,England,True
+2024-07-28,2024,7,30,3,Summer,False,England,119.8,England,True
+2024-08-04,2024,8,31,3,Summer,False,England,117.8,England,True
+2024-08-11,2024,8,32,3,Summer,False,England,118.1,England,True
+2024-08-18,2024,8,33,3,Summer,False,England,118.3,England,True
+2024-08-25,2024,8,34,3,Summer,False,England,116.6,England,True
+2024-09-01,2024,9,35,3,Autumn,False,England,118.0,England,True
+2024-09-08,2024,9,36,3,Autumn,False,England,116.6,England,True
+2024-09-15,2024,9,37,3,Autumn,False,England,112.3,England,True
+2024-09-22,2024,9,38,3,Autumn,False,England,110.4,England,True
+2024-09-29,2024,9,39,3,Autumn,False,England,110.1,England,True
+2024-10-06,2024,10,40,4,Autumn,False,England,109.8,England,True
+2024-10-13,2024,10,41,4,Autumn,False,England,108.6,England,True
+2024-10-20,2024,10,42,4,Autumn,False,England,106.9,England,True
+2024-10-27,2024,10,43,4,Autumn,False,England,104.5,England,True
+2024-11-03,2024,11,44,4,Autumn,False,England,104.2,England,True
+2024-11-10,2024,11,45,4,Autumn,False,England,105.6,England,True
+2024-11-17,2024,11,46,4,Autumn,False,England,109.5,England,True
+2024-11-24,2024,11,47,4,Autumn,False,England,112.5,England,True
+2024-12-01,2024,12,48,4,Winter,False,England,119.9,England,True
+2024-12-08,2024,12,49,4,Winter,True,England,126.6,England,True
+2024-12-15,2024,12,50,4,Winter,True,England,133.0,England,True
+2024-12-22,2024,12,51,4,Winter,True,England,137.1,England,True
+2024-12-29,2024,12,52,4,Winter,True,England,135.2,England,True
+2025-01-05,2025,1,1,1,Winter,True,England,91.3,England,False
+2025-01-12,2025,1,2,1,Winter,False,England,89.5,England,False
+2025-01-19,2025,1,3,1,Winter,False,England,92.8,England,False
+2025-01-26,2025,1,4,1,Winter,False,England,93.0,England,False
+2025-02-02,2025,2,5,1,Winter,False,England,99.8,England,False
+2025-02-09,2025,2,6,1,Winter,False,England,102.2,England,True
+2025-02-16,2025,2,7,1,Winter,False,England,101.3,England,True
+2025-02-23,2025,2,8,1,Winter,False,England,104.0,England,True
+2025-03-02,2025,3,9,1,Spring,False,England,104.1,England,True
+2025-03-09,2025,3,10,1,Spring,False,England,104.5,England,True
+2025-03-16,2025,3,11,1,Spring,False,England,102.6,England,True
+2025-03-23,2025,3,12,1,Spring,False,England,102.6,England,True
+2025-03-30,2025,3,13,1,Spring,False,England,104.2,England,True
+2025-04-06,2025,4,14,2,Spring,False,England,104.7,England,True
+2025-04-13,2025,4,15,2,Spring,False,England,102.9,England,True
+2025-04-20,2025,4,16,2,Spring,False,England,105.9,England,True
+2025-04-27,2025,4,17,2,Spring,False,England,102.8,England,True
+2025-05-04,2025,5,18,2,Spring,False,England,102.7,England,True
+2025-05-11,2025,5,19,2,Spring,False,England,103.6,England,True
+2025-05-18,2025,5,20,2,Spring,False,England,106.4,England,True
+2025-05-25,2025,5,21,2,Spring,False,England,106.9,England,True
+2025-06-01,2025,6,22,2,Summer,False,England,106.4,England,True
+2025-06-08,2025,6,23,2,Summer,False,England,107.1,England,True
+2025-06-15,2025,6,24,2,Summer,False,England,107.4,England,True
+2025-06-22,2025,6,25,2,Summer,False,England,107.9,England,True
+2025-06-29,2025,6,26,2,Summer,False,England,113.2,England,True
+2025-07-06,2025,7,27,3,Summer,False,England,111.9,England,True
+2025-07-13,2025,7,28,3,Summer,False,England,115.1,England,True
+2025-07-20,2025,7,29,3,Summer,False,England,116.9,England,True
+2025-07-27,2025,7,30,3,Summer,False,England,119.5,England,True
+2025-08-03,2025,8,31,3,Summer,False,England,120.6,England,True
+2025-08-10,2025,8,32,3,Summer,False,England,121.0,England,True
+2025-08-17,2025,8,33,3,Summer,False,England,120.7,England,True
+2025-08-24,2025,8,34,3,Summer,False,England,117.5,England,True
+2025-08-31,2025,8,35,3,Summer,False,England,117.4,England,True
+2025-09-07,2025,9,36,3,Autumn,False,England,113.9,England,True
+2025-09-14,2025,9,37,3,Autumn,False,England,115.1,England,True
+2025-09-21,2025,9,38,3,Autumn,False,England,109.9,England,True
+2025-09-28,2025,9,39,3,Autumn,False,England,111.3,England,True
+2025-10-05,2025,10,40,4,Autumn,False,England,107.3,England,True
+2025-10-12,2025,10,41,4,Autumn,False,England,105.1,England,True
+2025-10-19,2025,10,42,4,Autumn,False,England,106.4,England,True
+2025-10-26,2025,10,43,4,Autumn,False,England,107.2,England,True
+2025-11-02,2025,11,44,4,Autumn,False,England,104.7,England,True
+2025-11-09,2025,11,45,4,Autumn,False,England,107.4,England,True
+2025-11-16,2025,11,46,4,Autumn,False,England,107.0,England,True
+2025-11-23,2025,11,47,4,Autumn,False,England,113.1,England,True
+2025-11-30,2025,11,48,4,Autumn,False,England,121.7,England,True
+2025-12-07,2025,12,49,4,Winter,True,England,128.4,England,True
+2025-12-14,2025,12,50,4,Winter,True,England,134.0,England,True
+2025-12-21,2025,12,51,4,Winter,True,England,137.3,England,True
+2025-12-28,2025,12,52,4,Winter,True,England,135.6,England,True
+2026-01-04,2026,1,1,1,Winter,True,England,91.8,England,False
+2026-01-11,2026,1,2,1,Winter,False,England,91.4,England,False
+2026-01-18,2026,1,3,1,Winter,False,England,93.6,England,False
+2026-01-25,2026,1,4,1,Winter,False,England,93.3,England,False
+2026-02-01,2026,2,5,1,Winter,False,England,100.1,England,True
+2026-02-08,2026,2,6,1,Winter,False,England,102.4,England,True
+2026-02-15,2026,2,7,1,Winter,False,England,101.4,England,True
+2026-02-22,2026,2,8,1,Winter,False,England,104.0,England,True
+2026-03-01,2026,3,9,1,Spring,False,England,105.0,England,True
+2026-03-08,2026,3,10,1,Spring,False,England,103.1,England,True
+2026-03-15,2026,3,11,1,Spring,False,England,102.1,England,True
+2026-03-22,2026,3,12,1,Spring,False,England,102.1,England,True
+2024-07-07,2024,7,27,3,Summer,False,Northern_Ireland,116.7,Northern Ireland,True
+2024-07-14,2024,7,28,3,Summer,False,Northern_Ireland,118.1,Northern Ireland,True
+2024-07-21,2024,7,29,3,Summer,False,Northern_Ireland,122.2,Northern Ireland,True
+2024-07-28,2024,7,30,3,Summer,False,Northern_Ireland,123.0,Northern Ireland,True
+2024-08-04,2024,8,31,3,Summer,False,Northern_Ireland,123.7,Northern Ireland,True
+2024-08-11,2024,8,32,3,Summer,False,Northern_Ireland,124.0,Northern Ireland,True
+2024-08-18,2024,8,33,3,Summer,False,Northern_Ireland,126.4,Northern Ireland,True
+2024-08-25,2024,8,34,3,Summer,False,Northern_Ireland,122.1,Northern Ireland,True
+2024-09-01,2024,9,35,3,Autumn,False,Northern_Ireland,122.3,Northern Ireland,True
+2024-09-08,2024,9,36,3,Autumn,False,Northern_Ireland,116.9,Northern Ireland,True
+2024-09-15,2024,9,37,3,Autumn,False,Northern_Ireland,115.8,Northern Ireland,True
+2024-09-22,2024,9,38,3,Autumn,False,Northern_Ireland,113.3,Northern Ireland,True
+2024-09-29,2024,9,39,3,Autumn,False,Northern_Ireland,110.5,Northern Ireland,True
+2024-10-06,2024,10,40,4,Autumn,False,Northern_Ireland,106.3,Northern Ireland,True
+2024-10-13,2024,10,41,4,Autumn,False,Northern_Ireland,106.7,Northern Ireland,True
+2024-10-20,2024,10,42,4,Autumn,False,Northern_Ireland,104.2,Northern Ireland,True
+2024-10-27,2024,10,43,4,Autumn,False,Northern_Ireland,104.5,Northern Ireland,True
+2024-11-03,2024,11,44,4,Autumn,False,Northern_Ireland,104.3,Northern Ireland,True
+2024-11-10,2024,11,45,4,Autumn,False,Northern_Ireland,102.6,Northern Ireland,True
+2024-11-17,2024,11,46,4,Autumn,False,Northern_Ireland,107.4,Northern Ireland,True
+2024-11-24,2024,11,47,4,Autumn,False,Northern_Ireland,115.1,Northern Ireland,True
+2024-12-01,2024,12,48,4,Winter,False,Northern_Ireland,128.0,Northern Ireland,True
+2024-12-08,2024,12,49,4,Winter,True,Northern_Ireland,139.7,Northern Ireland,True
+2024-12-15,2024,12,50,4,Winter,True,Northern_Ireland,152.5,Northern Ireland,True
+2024-12-22,2024,12,51,4,Winter,True,Northern_Ireland,154.8,Northern Ireland,True
+2024-12-29,2024,12,52,4,Winter,True,Northern_Ireland,151.3,Northern Ireland,True
+2025-01-05,2025,1,1,1,Winter,True,Northern_Ireland,81.0,Northern Ireland,False
+2025-01-12,2025,1,2,1,Winter,False,Northern_Ireland,75.4,Northern Ireland,False
+2025-01-19,2025,1,3,1,Winter,False,Northern_Ireland,78.5,Northern Ireland,False
+2025-01-26,2025,1,4,1,Winter,False,Northern_Ireland,86.3,Northern Ireland,False
+2025-02-02,2025,2,5,1,Winter,False,Northern_Ireland,89.2,Northern Ireland,False
+2025-02-09,2025,2,6,1,Winter,False,Northern_Ireland,93.9,Northern Ireland,False
+2025-02-16,2025,2,7,1,Winter,False,Northern_Ireland,99.4,Northern Ireland,False
+2025-02-23,2025,2,8,1,Winter,False,Northern_Ireland,101.3,Northern Ireland,True
+2025-03-02,2025,3,9,1,Spring,False,Northern_Ireland,101.7,Northern Ireland,True
+2025-03-09,2025,3,10,1,Spring,False,Northern_Ireland,99.1,Northern Ireland,False
+2025-03-16,2025,3,11,1,Spring,False,Northern_Ireland,101.6,Northern Ireland,True
+2025-03-23,2025,3,12,1,Spring,False,Northern_Ireland,100.4,Northern Ireland,True
+2025-03-30,2025,3,13,1,Spring,False,Northern_Ireland,101.1,Northern Ireland,True
+2025-04-06,2025,4,14,2,Spring,False,Northern_Ireland,100.1,Northern Ireland,True
+2025-04-13,2025,4,15,2,Spring,False,Northern_Ireland,98.6,Northern Ireland,False
+2025-04-20,2025,4,16,2,Spring,False,Northern_Ireland,98.7,Northern Ireland,False
+2025-04-27,2025,4,17,2,Spring,False,Northern_Ireland,98.8,Northern Ireland,False
+2025-05-04,2025,5,18,2,Spring,False,Northern_Ireland,99.0,Northern Ireland,False
+2025-05-11,2025,5,19,2,Spring,False,Northern_Ireland,102.1,Northern Ireland,True
+2025-05-18,2025,5,20,2,Spring,False,Northern_Ireland,101.5,Northern Ireland,True
+2025-05-25,2025,5,21,2,Spring,False,Northern_Ireland,102.7,Northern Ireland,True
+2025-06-01,2025,6,22,2,Summer,False,Northern_Ireland,102.9,Northern Ireland,True
+2025-06-08,2025,6,23,2,Summer,False,Northern_Ireland,104.8,Northern Ireland,True
+2025-06-15,2025,6,24,2,Summer,False,Northern_Ireland,108.3,Northern Ireland,True
+2025-06-22,2025,6,25,2,Summer,False,Northern_Ireland,109.1,Northern Ireland,True
+2025-06-29,2025,6,26,2,Summer,False,Northern_Ireland,114.0,Northern Ireland,True
+2025-07-06,2025,7,27,3,Summer,False,Northern_Ireland,114.4,Northern Ireland,True
+2025-07-13,2025,7,28,3,Summer,False,Northern_Ireland,117.8,Northern Ireland,True
+2025-07-20,2025,7,29,3,Summer,False,Northern_Ireland,123.3,Northern Ireland,True
+2025-07-27,2025,7,30,3,Summer,False,Northern_Ireland,122.5,Northern Ireland,True
+2025-08-03,2025,8,31,3,Summer,False,Northern_Ireland,125.8,Northern Ireland,True
+2025-08-10,2025,8,32,3,Summer,False,Northern_Ireland,126.8,Northern Ireland,True
+2025-08-17,2025,8,33,3,Summer,False,Northern_Ireland,127.0,Northern Ireland,True
+2025-08-24,2025,8,34,3,Summer,False,Northern_Ireland,125.0,Northern Ireland,True
+2025-08-31,2025,8,35,3,Summer,False,Northern_Ireland,120.4,Northern Ireland,True
+2025-09-07,2025,9,36,3,Autumn,False,Northern_Ireland,117.0,Northern Ireland,True
+2025-09-14,2025,9,37,3,Autumn,False,Northern_Ireland,115.3,Northern Ireland,True
+2025-09-21,2025,9,38,3,Autumn,False,Northern_Ireland,113.9,Northern Ireland,True
+2025-09-28,2025,9,39,3,Autumn,False,Northern_Ireland,107.8,Northern Ireland,True
+2025-10-05,2025,10,40,4,Autumn,False,Northern_Ireland,107.7,Northern Ireland,True
+2025-10-12,2025,10,41,4,Autumn,False,Northern_Ireland,104.2,Northern Ireland,True
+2025-10-19,2025,10,42,4,Autumn,False,Northern_Ireland,102.7,Northern Ireland,True
+2025-10-26,2025,10,43,4,Autumn,False,Northern_Ireland,102.3,Northern Ireland,True
+2025-11-02,2025,11,44,4,Autumn,False,Northern_Ireland,102.8,Northern Ireland,True
+2025-11-09,2025,11,45,4,Autumn,False,Northern_Ireland,102.4,Northern Ireland,True
+2025-11-16,2025,11,46,4,Autumn,False,Northern_Ireland,109.6,Northern Ireland,True
+2025-11-23,2025,11,47,4,Autumn,False,Northern_Ireland,114.4,Northern Ireland,True
+2025-11-30,2025,11,48,4,Autumn,False,Northern_Ireland,128.7,Northern Ireland,True
+2025-12-07,2025,12,49,4,Winter,True,Northern_Ireland,138.2,Northern Ireland,True
+2025-12-14,2025,12,50,4,Winter,True,Northern_Ireland,152.5,Northern Ireland,True
+2025-12-21,2025,12,51,4,Winter,True,Northern_Ireland,153.9,Northern Ireland,True
+2025-12-28,2025,12,52,4,Winter,True,Northern_Ireland,151.8,Northern Ireland,True
+2026-01-04,2026,1,1,1,Winter,True,Northern_Ireland,78.1,Northern Ireland,False
+2026-01-11,2026,1,2,1,Winter,False,Northern_Ireland,77.7,Northern Ireland,False
+2026-01-18,2026,1,3,1,Winter,False,Northern_Ireland,80.6,Northern Ireland,False
+2026-01-25,2026,1,4,1,Winter,False,Northern_Ireland,86.1,Northern Ireland,False
+2026-02-01,2026,2,5,1,Winter,False,Northern_Ireland,91.7,Northern Ireland,False
+2026-02-08,2026,2,6,1,Winter,False,Northern_Ireland,94.2,Northern Ireland,False
+2026-02-15,2026,2,7,1,Winter,False,Northern_Ireland,99.3,Northern Ireland,False
+2026-02-22,2026,2,8,1,Winter,False,Northern_Ireland,98.8,Northern Ireland,False
+2026-03-01,2026,3,9,1,Spring,False,Northern_Ireland,100.6,Northern Ireland,True
+2026-03-08,2026,3,10,1,Spring,False,Northern_Ireland,101.8,Northern Ireland,True
+2026-03-15,2026,3,11,1,Spring,False,Northern_Ireland,100.6,Northern Ireland,True
+2026-03-22,2026,3,12,1,Spring,False,Northern_Ireland,101.7,Northern Ireland,True
+2024-07-07,2024,7,27,3,Summer,False,Scotland,116.3,Scotland,True
+2024-07-14,2024,7,28,3,Summer,False,Scotland,118.8,Scotland,True
+2024-07-21,2024,7,29,3,Summer,False,Scotland,119.9,Scotland,True
+2024-07-28,2024,7,30,3,Summer,False,Scotland,123.8,Scotland,True
+2024-08-04,2024,8,31,3,Summer,False,Scotland,123.8,Scotland,True
+2024-08-11,2024,8,32,3,Summer,False,Scotland,126.2,Scotland,True
+2024-08-18,2024,8,33,3,Summer,False,Scotland,125.0,Scotland,True
+2024-08-25,2024,8,34,3,Summer,False,Scotland,123.7,Scotland,True
+2024-09-01,2024,9,35,3,Autumn,False,Scotland,122.7,Scotland,True
+2024-09-08,2024,9,36,3,Autumn,False,Scotland,118.7,Scotland,True
+2024-09-15,2024,9,37,3,Autumn,False,Scotland,115.1,Scotland,True
+2024-09-22,2024,9,38,3,Autumn,False,Scotland,114.2,Scotland,True
+2024-09-29,2024,9,39,3,Autumn,False,Scotland,108.7,Scotland,True
+2024-10-06,2024,10,40,4,Autumn,False,Scotland,109.0,Scotland,True
+2024-10-13,2024,10,41,4,Autumn,False,Scotland,107.7,Scotland,True
+2024-10-20,2024,10,42,4,Autumn,False,Scotland,104.1,Scotland,True
+2024-10-27,2024,10,43,4,Autumn,False,Scotland,103.9,Scotland,True
+2024-11-03,2024,11,44,4,Autumn,False,Scotland,106.1,Scotland,True
+2024-11-10,2024,11,45,4,Autumn,False,Scotland,105.7,Scotland,True
+2024-11-17,2024,11,46,4,Autumn,False,Scotland,108.2,Scotland,True
+2024-11-24,2024,11,47,4,Autumn,False,Scotland,114.1,Scotland,True
+2024-12-01,2024,12,48,4,Winter,False,Scotland,124.6,Scotland,True
+2024-12-08,2024,12,49,4,Winter,True,Scotland,135.6,Scotland,True
+2024-12-15,2024,12,50,4,Winter,True,Scotland,147.7,Scotland,True
+2024-12-22,2024,12,51,4,Winter,True,Scotland,148.9,Scotland,True
+2024-12-29,2024,12,52,4,Winter,True,Scotland,145.4,Scotland,True
+2025-01-05,2025,1,1,1,Winter,True,Scotland,85.2,Scotland,False
+2025-01-12,2025,1,2,1,Winter,False,Scotland,82.4,Scotland,False
+2025-01-19,2025,1,3,1,Winter,False,Scotland,85.3,Scotland,False
+2025-01-26,2025,1,4,1,Winter,False,Scotland,86.9,Scotland,False
+2025-02-02,2025,2,5,1,Winter,False,Scotland,93.9,Scotland,False
+2025-02-09,2025,2,6,1,Winter,False,Scotland,99.4,Scotland,False
+2025-02-16,2025,2,7,1,Winter,False,Scotland,100.7,Scotland,True
+2025-02-23,2025,2,8,1,Winter,False,Scotland,101.0,Scotland,True
+2025-03-02,2025,3,9,1,Spring,False,Scotland,102.0,Scotland,True
+2025-03-09,2025,3,10,1,Spring,False,Scotland,100.7,Scotland,True
+2025-03-16,2025,3,11,1,Spring,False,Scotland,103.3,Scotland,True
+2025-03-23,2025,3,12,1,Spring,False,Scotland,101.5,Scotland,True
+2025-03-30,2025,3,13,1,Spring,False,Scotland,103.8,Scotland,True
+2025-04-06,2025,4,14,2,Spring,False,Scotland,103.1,Scotland,True
+2025-04-13,2025,4,15,2,Spring,False,Scotland,100.1,Scotland,True
+2025-04-20,2025,4,16,2,Spring,False,Scotland,103.8,Scotland,True
+2025-04-27,2025,4,17,2,Spring,False,Scotland,102.8,Scotland,True
+2025-05-04,2025,5,18,2,Spring,False,Scotland,102.3,Scotland,True
+2025-05-11,2025,5,19,2,Spring,False,Scotland,103.8,Scotland,True
+2025-05-18,2025,5,20,2,Spring,False,Scotland,103.4,Scotland,True
+2025-05-25,2025,5,21,2,Spring,False,Scotland,104.8,Scotland,True
+2025-06-01,2025,6,22,2,Summer,False,Scotland,107.1,Scotland,True
+2025-06-08,2025,6,23,2,Summer,False,Scotland,108.5,Scotland,True
+2025-06-15,2025,6,24,2,Summer,False,Scotland,107.1,Scotland,True
+2025-06-22,2025,6,25,2,Summer,False,Scotland,109.2,Scotland,True
+2025-06-29,2025,6,26,2,Summer,False,Scotland,115.0,Scotland,True
+2025-07-06,2025,7,27,3,Summer,False,Scotland,117.2,Scotland,True
+2025-07-13,2025,7,28,3,Summer,False,Scotland,120.3,Scotland,True
+2025-07-20,2025,7,29,3,Summer,False,Scotland,122.3,Scotland,True
+2025-07-27,2025,7,30,3,Summer,False,Scotland,122.8,Scotland,True
+2025-08-03,2025,8,31,3,Summer,False,Scotland,124.1,Scotland,True
+2025-08-10,2025,8,32,3,Summer,False,Scotland,123.6,Scotland,True
+2025-08-17,2025,8,33,3,Summer,False,Scotland,124.6,Scotland,True
+2025-08-24,2025,8,34,3,Summer,False,Scotland,123.0,Scotland,True
+2025-08-31,2025,8,35,3,Summer,False,Scotland,123.0,Scotland,True
+2025-09-07,2025,9,36,3,Autumn,False,Scotland,118.6,Scotland,True
+2025-09-14,2025,9,37,3,Autumn,False,Scotland,115.0,Scotland,True
+2025-09-21,2025,9,38,3,Autumn,False,Scotland,111.9,Scotland,True
+2025-09-28,2025,9,39,3,Autumn,False,Scotland,109.0,Scotland,True
+2025-10-05,2025,10,40,4,Autumn,False,Scotland,108.0,Scotland,True
+2025-10-12,2025,10,41,4,Autumn,False,Scotland,106.7,Scotland,True
+2025-10-19,2025,10,42,4,Autumn,False,Scotland,105.4,Scotland,True
+2025-10-26,2025,10,43,4,Autumn,False,Scotland,103.9,Scotland,True
+2025-11-02,2025,11,44,4,Autumn,False,Scotland,104.2,Scotland,True
+2025-11-09,2025,11,45,4,Autumn,False,Scotland,103.8,Scotland,True
+2025-11-16,2025,11,46,4,Autumn,False,Scotland,107.6,Scotland,True
+2025-11-23,2025,11,47,4,Autumn,False,Scotland,117.7,Scotland,True
+2025-11-30,2025,11,48,4,Autumn,False,Scotland,125.6,Scotland,True
+2025-12-07,2025,12,49,4,Winter,True,Scotland,136.5,Scotland,True
+2025-12-14,2025,12,50,4,Winter,True,Scotland,148.0,Scotland,True
+2025-12-21,2025,12,51,4,Winter,True,Scotland,148.9,Scotland,True
+2025-12-28,2025,12,52,4,Winter,True,Scotland,145.1,Scotland,True
+2026-01-04,2026,1,1,1,Winter,True,Scotland,82.3,Scotland,False
+2026-01-11,2026,1,2,1,Winter,False,Scotland,80.2,Scotland,False
+2026-01-18,2026,1,3,1,Winter,False,Scotland,84.8,Scotland,False
+2026-01-25,2026,1,4,1,Winter,False,Scotland,88.5,Scotland,False
+2026-02-01,2026,2,5,1,Winter,False,Scotland,95.3,Scotland,False
+2026-02-08,2026,2,6,1,Winter,False,Scotland,99.4,Scotland,False
+2026-02-15,2026,2,7,1,Winter,False,Scotland,100.6,Scotland,True
+2026-02-22,2026,2,8,1,Winter,False,Scotland,102.0,Scotland,True
+2026-03-01,2026,3,9,1,Spring,False,Scotland,101.7,Scotland,True
+2026-03-08,2026,3,10,1,Spring,False,Scotland,100.6,Scotland,True
+2026-03-15,2026,3,11,1,Spring,False,Scotland,101.5,Scotland,True
+2026-03-22,2026,3,12,1,Spring,False,Scotland,102.5,Scotland,True
+2024-07-07,2024,7,27,3,Summer,False,Wales,110.8,Wales,True
+2024-07-14,2024,7,28,3,Summer,False,Wales,114.1,Wales,True
+2024-07-21,2024,7,29,3,Summer,False,Wales,114.6,Wales,True
+2024-07-28,2024,7,30,3,Summer,False,Wales,117.2,Wales,True
+2024-08-04,2024,8,31,3,Summer,False,Wales,118.6,Wales,True
+2024-08-11,2024,8,32,3,Summer,False,Wales,120.2,Wales,True
+2024-08-18,2024,8,33,3,Summer,False,Wales,120.5,Wales,True
+2024-08-25,2024,8,34,3,Summer,False,Wales,117.2,Wales,True
+2024-09-01,2024,9,35,3,Autumn,False,Wales,117.6,Wales,True
+2024-09-08,2024,9,36,3,Autumn,False,Wales,114.0,Wales,True
+2024-09-15,2024,9,37,3,Autumn,False,Wales,111.3,Wales,True
+2024-09-22,2024,9,38,3,Autumn,False,Wales,108.9,Wales,True
+2024-09-29,2024,9,39,3,Autumn,False,Wales,107.9,Wales,True
+2024-10-06,2024,10,40,4,Autumn,False,Wales,107.4,Wales,True
+2024-10-13,2024,10,41,4,Autumn,False,Wales,105.2,Wales,True
+2024-10-20,2024,10,42,4,Autumn,False,Wales,104.4,Wales,True
+2024-10-27,2024,10,43,4,Autumn,False,Wales,104.4,Wales,True
+2024-11-03,2024,11,44,4,Autumn,False,Wales,104.5,Wales,True
+2024-11-10,2024,11,45,4,Autumn,False,Wales,105.5,Wales,True
+2024-11-17,2024,11,46,4,Autumn,False,Wales,107.8,Wales,True
+2024-11-24,2024,11,47,4,Autumn,False,Wales,112.3,Wales,True
+2024-12-01,2024,12,48,4,Winter,False,Wales,120.5,Wales,True
+2024-12-08,2024,12,49,4,Winter,True,Wales,127.3,Wales,True
+2024-12-15,2024,12,50,4,Winter,True,Wales,137.0,Wales,True
+2024-12-22,2024,12,51,4,Winter,True,Wales,139.7,Wales,True
+2024-12-29,2024,12,52,4,Winter,True,Wales,135.1,Wales,True
+2025-01-05,2025,1,1,1,Winter,True,Wales,85.1,Wales,False
+2025-01-12,2025,1,2,1,Winter,False,Wales,85.2,Wales,False
+2025-01-19,2025,1,3,1,Winter,False,Wales,87.7,Wales,False
+2025-01-26,2025,1,4,1,Winter,False,Wales,89.5,Wales,False
+2025-02-02,2025,2,5,1,Winter,False,Wales,92.8,Wales,False
+2025-02-09,2025,2,6,1,Winter,False,Wales,98.7,Wales,False
+2025-02-16,2025,2,7,1,Winter,False,Wales,99.5,Wales,False
+2025-02-23,2025,2,8,1,Winter,False,Wales,99.7,Wales,False
+2025-03-02,2025,3,9,1,Spring,False,Wales,101.4,Wales,True
+2025-03-09,2025,3,10,1,Spring,False,Wales,100.8,Wales,True
+2025-03-16,2025,3,11,1,Spring,False,Wales,102.8,Wales,True
+2025-03-23,2025,3,12,1,Spring,False,Wales,102.9,Wales,True
+2025-03-30,2025,3,13,1,Spring,False,Wales,102.4,Wales,True
+2025-04-06,2025,4,14,2,Spring,False,Wales,101.1,Wales,True
+2025-04-13,2025,4,15,2,Spring,False,Wales,100.5,Wales,True
+2025-04-20,2025,4,16,2,Spring,False,Wales,101.1,Wales,True
+2025-04-27,2025,4,17,2,Spring,False,Wales,99.9,Wales,False
+2025-05-04,2025,5,18,2,Spring,False,Wales,100.2,Wales,True
+2025-05-11,2025,5,19,2,Spring,False,Wales,100.4,Wales,True
+2025-05-18,2025,5,20,2,Spring,False,Wales,100.5,Wales,True
+2025-05-25,2025,5,21,2,Spring,False,Wales,103.8,Wales,True
+2025-06-01,2025,6,22,2,Summer,False,Wales,103.9,Wales,True
+2025-06-08,2025,6,23,2,Summer,False,Wales,103.1,Wales,True
+2025-06-15,2025,6,24,2,Summer,False,Wales,105.4,Wales,True
+2025-06-22,2025,6,25,2,Summer,False,Wales,106.1,Wales,True
+2025-06-29,2025,6,26,2,Summer,False,Wales,108.4,Wales,True
+2025-07-06,2025,7,27,3,Summer,False,Wales,112.8,Wales,True
+2025-07-13,2025,7,28,3,Summer,False,Wales,113.9,Wales,True
+2025-07-20,2025,7,29,3,Summer,False,Wales,114.9,Wales,True
+2025-07-27,2025,7,30,3,Summer,False,Wales,119.1,Wales,True
+2025-08-03,2025,8,31,3,Summer,False,Wales,118.8,Wales,True
+2025-08-10,2025,8,32,3,Summer,False,Wales,119.7,Wales,True
+2025-08-17,2025,8,33,3,Summer,False,Wales,119.4,Wales,True
+2025-08-24,2025,8,34,3,Summer,False,Wales,116.8,Wales,True
+2025-08-31,2025,8,35,3,Summer,False,Wales,114.9,Wales,True
+2025-09-07,2025,9,36,3,Autumn,False,Wales,114.6,Wales,True
+2025-09-14,2025,9,37,3,Autumn,False,Wales,112.7,Wales,True
+2025-09-21,2025,9,38,3,Autumn,False,Wales,110.5,Wales,True
+2025-09-28,2025,9,39,3,Autumn,False,Wales,106.7,Wales,True
+2025-10-05,2025,10,40,4,Autumn,False,Wales,106.3,Wales,True
+2025-10-12,2025,10,41,4,Autumn,False,Wales,105.2,Wales,True
+2025-10-19,2025,10,42,4,Autumn,False,Wales,104.1,Wales,True
+2025-10-26,2025,10,43,4,Autumn,False,Wales,102.9,Wales,True
+2025-11-02,2025,11,44,4,Autumn,False,Wales,103.5,Wales,True
+2025-11-09,2025,11,45,4,Autumn,False,Wales,104.7,Wales,True
+2025-11-16,2025,11,46,4,Autumn,False,Wales,108.4,Wales,True
+2025-11-23,2025,11,47,4,Autumn,False,Wales,113.8,Wales,True
+2025-11-30,2025,11,48,4,Autumn,False,Wales,121.4,Wales,True
+2025-12-07,2025,12,49,4,Winter,True,Wales,129.4,Wales,True
+2025-12-14,2025,12,50,4,Winter,True,Wales,138.8,Wales,True
+2025-12-21,2025,12,51,4,Winter,True,Wales,139.2,Wales,True
+2025-12-28,2025,12,52,4,Winter,True,Wales,136.5,Wales,True
+2026-01-04,2026,1,1,1,Winter,True,Wales,85.2,Wales,False
+2026-01-11,2026,1,2,1,Winter,False,Wales,85.9,Wales,False
+2026-01-18,2026,1,3,1,Winter,False,Wales,86.9,Wales,False
+2026-01-25,2026,1,4,1,Winter,False,Wales,90.1,Wales,False
+2026-02-01,2026,2,5,1,Winter,False,Wales,95.3,Wales,False
+2026-02-08,2026,2,6,1,Winter,False,Wales,99.2,Wales,False
+2026-02-15,2026,2,7,1,Winter,False,Wales,101.6,Wales,True
+2026-02-22,2026,2,8,1,Winter,False,Wales,98.8,Wales,False
+2026-03-01,2026,3,9,1,Spring,False,Wales,100.0,Wales,False
+2026-03-08,2026,3,10,1,Spring,False,Wales,100.7,Wales,True
+2026-03-15,2026,3,11,1,Spring,False,Wales,102.5,Wales,True
+2026-03-22,2026,3,12,1,Spring,False,Wales,102.2,Wales,True
+2024-07-07,2024,7,27,3,Summer,False,East_of_England,113.9,East of England,True
+2024-07-14,2024,7,28,3,Summer,False,East_of_England,116.3,East of England,True
+2024-07-21,2024,7,29,3,Summer,False,East_of_England,120.6,East of England,True
+2024-07-28,2024,7,30,3,Summer,False,East_of_England,120.2,East of England,True
+2024-08-04,2024,8,31,3,Summer,False,East_of_England,120.1,East of England,True
+2024-08-11,2024,8,32,3,Summer,False,East_of_England,122.2,East of England,True
+2024-08-18,2024,8,33,3,Summer,False,East_of_England,120.9,East of England,True
+2024-08-25,2024,8,34,3,Summer,False,East_of_England,120.2,East of England,True
+2024-09-01,2024,9,35,3,Autumn,False,East_of_England,117.5,East of England,True
+2024-09-08,2024,9,36,3,Autumn,False,East_of_England,116.0,East of England,True
+2024-09-15,2024,9,37,3,Autumn,False,East_of_England,113.4,East of England,True
+2024-09-22,2024,9,38,3,Autumn,False,East_of_England,114.4,East of England,True
+2024-09-29,2024,9,39,3,Autumn,False,East_of_England,110.6,East of England,True
+2024-10-06,2024,10,40,4,Autumn,False,East_of_England,110.5,East of England,True
+2024-10-13,2024,10,41,4,Autumn,False,East_of_England,107.4,East of England,True
+2024-10-20,2024,10,42,4,Autumn,False,East_of_England,107.1,East of England,True
+2024-10-27,2024,10,43,4,Autumn,False,East_of_England,108.1,East of England,True
+2024-11-03,2024,11,44,4,Autumn,False,East_of_England,107.0,East of England,True
+2024-11-10,2024,11,45,4,Autumn,False,East_of_England,109.1,East of England,True
+2024-11-17,2024,11,46,4,Autumn,False,East_of_England,111.9,East of England,True
+2024-11-24,2024,11,47,4,Autumn,False,East_of_England,113.3,East of England,True
+2024-12-01,2024,12,48,4,Winter,False,East_of_England,120.2,East of England,True
+2024-12-08,2024,12,49,4,Winter,True,East_of_England,131.4,East of England,True
+2024-12-15,2024,12,50,4,Winter,True,East_of_England,136.3,East of England,True
+2024-12-22,2024,12,51,4,Winter,True,East_of_England,138.2,East of England,True
+2024-12-29,2024,12,52,4,Winter,True,East_of_England,136.4,East of England,True
+2025-01-05,2025,1,1,1,Winter,True,East_of_England,92.0,East of England,False
+2025-01-12,2025,1,2,1,Winter,False,East_of_England,93.9,East of England,False
+2025-01-19,2025,1,3,1,Winter,False,East_of_England,93.5,East of England,False
+2025-01-26,2025,1,4,1,Winter,False,East_of_England,98.8,East of England,False
+2025-02-02,2025,2,5,1,Winter,False,East_of_England,100.8,East of England,True
+2025-02-09,2025,2,6,1,Winter,False,East_of_England,101.7,East of England,True
+2025-02-16,2025,2,7,1,Winter,False,East_of_England,106.6,East of England,True
+2025-02-23,2025,2,8,1,Winter,False,East_of_England,107.1,East of England,True
+2025-03-02,2025,3,9,1,Spring,False,East_of_England,106.7,East of England,True
+2025-03-09,2025,3,10,1,Spring,False,East_of_England,105.4,East of England,True
+2025-03-16,2025,3,11,1,Spring,False,East_of_England,106.9,East of England,True
+2025-03-23,2025,3,12,1,Spring,False,East_of_England,107.4,East of England,True
+2025-03-30,2025,3,13,1,Spring,False,East_of_England,105.0,East of England,True
+2025-04-06,2025,4,14,2,Spring,False,East_of_England,107.4,East of England,True
+2025-04-13,2025,4,15,2,Spring,False,East_of_England,106.4,East of England,True
+2025-04-20,2025,4,16,2,Spring,False,East_of_England,105.1,East of England,True
+2025-04-27,2025,4,17,2,Spring,False,East_of_England,105.6,East of England,True
+2025-05-04,2025,5,18,2,Spring,False,East_of_England,105.8,East of England,True
+2025-05-11,2025,5,19,2,Spring,False,East_of_England,105.4,East of England,True
+2025-05-18,2025,5,20,2,Spring,False,East_of_England,106.6,East of England,True
+2025-05-25,2025,5,21,2,Spring,False,East_of_England,107.4,East of England,True
+2025-06-01,2025,6,22,2,Summer,False,East_of_England,107.0,East of England,True
+2025-06-08,2025,6,23,2,Summer,False,East_of_England,108.6,East of England,True
+2025-06-15,2025,6,24,2,Summer,False,East_of_England,110.0,East of England,True
+2025-06-22,2025,6,25,2,Summer,False,East_of_England,113.7,East of England,True
+2025-06-29,2025,6,26,2,Summer,False,East_of_England,114.4,East of England,True
+2025-07-06,2025,7,27,3,Summer,False,East_of_England,115.4,East of England,True
+2025-07-13,2025,7,28,3,Summer,False,East_of_England,117.3,East of England,True
+2025-07-20,2025,7,29,3,Summer,False,East_of_England,118.0,East of England,True
+2025-07-27,2025,7,30,3,Summer,False,East_of_England,118.7,East of England,True
+2025-08-03,2025,8,31,3,Summer,False,East_of_England,122.8,East of England,True
+2025-08-10,2025,8,32,3,Summer,False,East_of_England,121.7,East of England,True
+2025-08-17,2025,8,33,3,Summer,False,East_of_England,120.6,East of England,True
+2025-08-24,2025,8,34,3,Summer,False,East_of_England,119.9,East of England,True
+2025-08-31,2025,8,35,3,Summer,False,East_of_England,118.4,East of England,True
+2025-09-07,2025,9,36,3,Autumn,False,East_of_England,115.4,East of England,True
+2025-09-14,2025,9,37,3,Autumn,False,East_of_England,114.9,East of England,True
+2025-09-21,2025,9,38,3,Autumn,False,East_of_England,112.4,East of England,True
+2025-09-28,2025,9,39,3,Autumn,False,East_of_England,109.8,East of England,True
+2025-10-05,2025,10,40,4,Autumn,False,East_of_England,110.0,East of England,True
+2025-10-12,2025,10,41,4,Autumn,False,East_of_England,108.1,East of England,True
+2025-10-19,2025,10,42,4,Autumn,False,East_of_England,109.4,East of England,True
+2025-10-26,2025,10,43,4,Autumn,False,East_of_England,105.7,East of England,True
+2025-11-02,2025,11,44,4,Autumn,False,East_of_England,109.2,East of England,True
+2025-11-09,2025,11,45,4,Autumn,False,East_of_England,108.3,East of England,True
+2025-11-16,2025,11,46,4,Autumn,False,East_of_England,110.5,East of England,True
+2025-11-23,2025,11,47,4,Autumn,False,East_of_England,113.3,East of England,True
+2025-11-30,2025,11,48,4,Autumn,False,East_of_England,123.2,East of England,True
+2025-12-07,2025,12,49,4,Winter,True,East_of_England,130.7,East of England,True
+2025-12-14,2025,12,50,4,Winter,True,East_of_England,135.2,East of England,True
+2025-12-21,2025,12,51,4,Winter,True,East_of_England,137.5,East of England,True
+2025-12-28,2025,12,52,4,Winter,True,East_of_England,137.3,East of England,True
+2026-01-04,2026,1,1,1,Winter,True,East_of_England,92.5,East of England,False
+2026-01-11,2026,1,2,1,Winter,False,East_of_England,91.3,East of England,False
+2026-01-18,2026,1,3,1,Winter,False,East_of_England,93.9,East of England,False
+2026-01-25,2026,1,4,1,Winter,False,East_of_England,97.4,East of England,False
+2026-02-01,2026,2,5,1,Winter,False,East_of_England,101.4,East of England,True
+2026-02-08,2026,2,6,1,Winter,False,East_of_England,103.4,East of England,True
+2026-02-15,2026,2,7,1,Winter,False,East_of_England,104.3,East of England,True
+2026-02-22,2026,2,8,1,Winter,False,East_of_England,107.2,East of England,True
+2026-03-01,2026,3,9,1,Spring,False,East_of_England,107.9,East of England,True
+2026-03-08,2026,3,10,1,Spring,False,East_of_England,107.8,East of England,True
+2026-03-15,2026,3,11,1,Spring,False,East_of_England,105.9,East of England,True
+2026-03-22,2026,3,12,1,Spring,False,East_of_England,105.9,East of England,True
+2024-07-07,2024,7,27,3,Summer,False,East_Midlands,110.4,East Midlands,True
+2024-07-14,2024,7,28,3,Summer,False,East_Midlands,114.7,East Midlands,True
+2024-07-21,2024,7,29,3,Summer,False,East_Midlands,117.9,East Midlands,True
+2024-07-28,2024,7,30,3,Summer,False,East_Midlands,117.7,East Midlands,True
+2024-08-04,2024,8,31,3,Summer,False,East_Midlands,119.8,East Midlands,True
+2024-08-11,2024,8,32,3,Summer,False,East_Midlands,119.9,East Midlands,True
+2024-08-18,2024,8,33,3,Summer,False,East_Midlands,117.0,East Midlands,True
+2024-08-25,2024,8,34,3,Summer,False,East_Midlands,119.2,East Midlands,True
+2024-09-01,2024,9,35,3,Autumn,False,East_Midlands,117.6,East Midlands,True
+2024-09-08,2024,9,36,3,Autumn,False,East_Midlands,112.7,East Midlands,True
+2024-09-15,2024,9,37,3,Autumn,False,East_Midlands,112.6,East Midlands,True
+2024-09-22,2024,9,38,3,Autumn,False,East_Midlands,109.7,East Midlands,True
+2024-09-29,2024,9,39,3,Autumn,False,East_Midlands,108.9,East Midlands,True
+2024-10-06,2024,10,40,4,Autumn,False,East_Midlands,106.8,East Midlands,True
+2024-10-13,2024,10,41,4,Autumn,False,East_Midlands,104.0,East Midlands,True
+2024-10-20,2024,10,42,4,Autumn,False,East_Midlands,103.6,East Midlands,True
+2024-10-27,2024,10,43,4,Autumn,False,East_Midlands,104.9,East Midlands,True
+2024-11-03,2024,11,44,4,Autumn,False,East_Midlands,101.7,East Midlands,True
+2024-11-10,2024,11,45,4,Autumn,False,East_Midlands,104.8,East Midlands,True
+2024-11-17,2024,11,46,4,Autumn,False,East_Midlands,108.6,East Midlands,True
+2024-11-24,2024,11,47,4,Autumn,False,East_Midlands,111.9,East Midlands,True
+2024-12-01,2024,12,48,4,Winter,False,East_Midlands,117.6,East Midlands,True
+2024-12-08,2024,12,49,4,Winter,True,East_Midlands,129.2,East Midlands,True
+2024-12-15,2024,12,50,4,Winter,True,East_Midlands,134.5,East Midlands,True
+2024-12-22,2024,12,51,4,Winter,True,East_Midlands,136.2,East Midlands,True
+2024-12-29,2024,12,52,4,Winter,True,East_Midlands,132.9,East Midlands,True
+2025-01-05,2025,1,1,1,Winter,True,East_Midlands,86.9,East Midlands,False
+2025-01-12,2025,1,2,1,Winter,False,East_Midlands,88.0,East Midlands,False
+2025-01-19,2025,1,3,1,Winter,False,East_Midlands,89.5,East Midlands,False
+2025-01-26,2025,1,4,1,Winter,False,East_Midlands,93.9,East Midlands,False
+2025-02-02,2025,2,5,1,Winter,False,East_Midlands,95.9,East Midlands,False
+2025-02-09,2025,2,6,1,Winter,False,East_Midlands,97.5,East Midlands,False
+2025-02-16,2025,2,7,1,Winter,False,East_Midlands,99.3,East Midlands,False
+2025-02-23,2025,2,8,1,Winter,False,East_Midlands,100.5,East Midlands,True
+2025-03-02,2025,3,9,1,Spring,False,East_Midlands,101.7,East Midlands,True
+2025-03-09,2025,3,10,1,Spring,False,East_Midlands,102.3,East Midlands,True
+2025-03-16,2025,3,11,1,Spring,False,East_Midlands,102.5,East Midlands,True
+2025-03-23,2025,3,12,1,Spring,False,East_Midlands,103.4,East Midlands,True
+2025-03-30,2025,3,13,1,Spring,False,East_Midlands,101.8,East Midlands,True
+2025-04-06,2025,4,14,2,Spring,False,East_Midlands,102.2,East Midlands,True
+2025-04-13,2025,4,15,2,Spring,False,East_Midlands,101.6,East Midlands,True
+2025-04-20,2025,4,16,2,Spring,False,East_Midlands,101.9,East Midlands,True
+2025-04-27,2025,4,17,2,Spring,False,East_Midlands,103.8,East Midlands,True
+2025-05-04,2025,5,18,2,Spring,False,East_Midlands,102.3,East Midlands,True
+2025-05-11,2025,5,19,2,Spring,False,East_Midlands,102.1,East Midlands,True
+2025-05-18,2025,5,20,2,Spring,False,East_Midlands,103.1,East Midlands,True
+2025-05-25,2025,5,21,2,Spring,False,East_Midlands,101.8,East Midlands,True
+2025-06-01,2025,6,22,2,Summer,False,East_Midlands,102.7,East Midlands,True
+2025-06-08,2025,6,23,2,Summer,False,East_Midlands,107.2,East Midlands,True
+2025-06-15,2025,6,24,2,Summer,False,East_Midlands,106.7,East Midlands,True
+2025-06-22,2025,6,25,2,Summer,False,East_Midlands,107.6,East Midlands,True
+2025-06-29,2025,6,26,2,Summer,False,East_Midlands,111.9,East Midlands,True
+2025-07-06,2025,7,27,3,Summer,False,East_Midlands,111.6,East Midlands,True
+2025-07-13,2025,7,28,3,Summer,False,East_Midlands,115.8,East Midlands,True
+2025-07-20,2025,7,29,3,Summer,False,East_Midlands,115.1,East Midlands,True
+2025-07-27,2025,7,30,3,Summer,False,East_Midlands,116.5,East Midlands,True
+2025-08-03,2025,8,31,3,Summer,False,East_Midlands,117.1,East Midlands,True
+2025-08-10,2025,8,32,3,Summer,False,East_Midlands,118.5,East Midlands,True
+2025-08-17,2025,8,33,3,Summer,False,East_Midlands,116.7,East Midlands,True
+2025-08-24,2025,8,34,3,Summer,False,East_Midlands,116.1,East Midlands,True
+2025-08-31,2025,8,35,3,Summer,False,East_Midlands,114.4,East Midlands,True
+2025-09-07,2025,9,36,3,Autumn,False,East_Midlands,115.3,East Midlands,True
+2025-09-14,2025,9,37,3,Autumn,False,East_Midlands,110.3,East Midlands,True
+2025-09-21,2025,9,38,3,Autumn,False,East_Midlands,108.6,East Midlands,True
+2025-09-28,2025,9,39,3,Autumn,False,East_Midlands,107.0,East Midlands,True
+2025-10-05,2025,10,40,4,Autumn,False,East_Midlands,105.9,East Midlands,True
+2025-10-12,2025,10,41,4,Autumn,False,East_Midlands,103.9,East Midlands,True
+2025-10-19,2025,10,42,4,Autumn,False,East_Midlands,103.2,East Midlands,True
+2025-10-26,2025,10,43,4,Autumn,False,East_Midlands,102.4,East Midlands,True
+2025-11-02,2025,11,44,4,Autumn,False,East_Midlands,104.6,East Midlands,True
+2025-11-09,2025,11,45,4,Autumn,False,East_Midlands,105.3,East Midlands,True
+2025-11-16,2025,11,46,4,Autumn,False,East_Midlands,105.9,East Midlands,True
+2025-11-23,2025,11,47,4,Autumn,False,East_Midlands,112.9,East Midlands,True
+2025-11-30,2025,11,48,4,Autumn,False,East_Midlands,118.7,East Midlands,True
+2025-12-07,2025,12,49,4,Winter,True,East_Midlands,127.1,East Midlands,True
+2025-12-14,2025,12,50,4,Winter,True,East_Midlands,135.9,East Midlands,True
+2025-12-21,2025,12,51,4,Winter,True,East_Midlands,136.7,East Midlands,True
+2025-12-28,2025,12,52,4,Winter,True,East_Midlands,136.6,East Midlands,True
+2026-01-04,2026,1,1,1,Winter,True,East_Midlands,89.6,East Midlands,False
+2026-01-11,2026,1,2,1,Winter,False,East_Midlands,85.9,East Midlands,False
+2026-01-18,2026,1,3,1,Winter,False,East_Midlands,86.9,East Midlands,False
+2026-01-25,2026,1,4,1,Winter,False,East_Midlands,93.4,East Midlands,False
+2026-02-01,2026,2,5,1,Winter,False,East_Midlands,96.6,East Midlands,False
+2026-02-08,2026,2,6,1,Winter,False,East_Midlands,97.2,East Midlands,False
+2026-02-15,2026,2,7,1,Winter,False,East_Midlands,101.4,East Midlands,True
+2026-02-22,2026,2,8,1,Winter,False,East_Midlands,103.5,East Midlands,True
+2026-03-01,2026,3,9,1,Spring,False,East_Midlands,101.6,East Midlands,True
+2026-03-08,2026,3,10,1,Spring,False,East_Midlands,101.7,East Midlands,True
+2026-03-15,2026,3,11,1,Spring,False,East_Midlands,103.9,East Midlands,True
+2026-03-22,2026,3,12,1,Spring,False,East_Midlands,100.5,East Midlands,True
+2024-07-07,2024,7,27,3,Summer,False,London,120.7,London,True
+2024-07-14,2024,7,28,3,Summer,False,London,119.7,London,True
+2024-07-21,2024,7,29,3,Summer,False,London,124.0,London,True
+2024-07-28,2024,7,30,3,Summer,False,London,122.9,London,True
+2024-08-04,2024,8,31,3,Summer,False,London,124.4,London,True
+2024-08-11,2024,8,32,3,Summer,False,London,123.6,London,True
+2024-08-18,2024,8,33,3,Summer,False,London,125.9,London,True
+2024-08-25,2024,8,34,3,Summer,False,London,123.1,London,True
+2024-09-01,2024,9,35,3,Autumn,False,London,122.9,London,True
+2024-09-08,2024,9,36,3,Autumn,False,London,120.5,London,True
+2024-09-15,2024,9,37,3,Autumn,False,London,119.3,London,True
+2024-09-22,2024,9,38,3,Autumn,False,London,118.0,London,True
+2024-09-29,2024,9,39,3,Autumn,False,London,114.4,London,True
+2024-10-06,2024,10,40,4,Autumn,False,London,113.2,London,True
+2024-10-13,2024,10,41,4,Autumn,False,London,114.6,London,True
+2024-10-20,2024,10,42,4,Autumn,False,London,113.1,London,True
+2024-10-27,2024,10,43,4,Autumn,False,London,111.6,London,True
+2024-11-03,2024,11,44,4,Autumn,False,London,113.2,London,True
+2024-11-10,2024,11,45,4,Autumn,False,London,110.7,London,True
+2024-11-17,2024,11,46,4,Autumn,False,London,116.3,London,True
+2024-11-24,2024,11,47,4,Autumn,False,London,119.3,London,True
+2024-12-01,2024,12,48,4,Winter,False,London,125.9,London,True
+2024-12-08,2024,12,49,4,Winter,True,London,134.3,London,True
+2024-12-15,2024,12,50,4,Winter,True,London,138.8,London,True
+2024-12-22,2024,12,51,4,Winter,True,London,142.0,London,True
+2024-12-29,2024,12,52,4,Winter,True,London,140.2,London,True
+2025-01-05,2025,1,1,1,Winter,True,London,95.8,London,False
+2025-01-12,2025,1,2,1,Winter,False,London,97.6,London,False
+2025-01-19,2025,1,3,1,Winter,False,London,98.8,London,False
+2025-01-26,2025,1,4,1,Winter,False,London,101.3,London,True
+2025-02-02,2025,2,5,1,Winter,False,London,106.2,London,True
+2025-02-09,2025,2,6,1,Winter,False,London,109.3,London,True
+2025-02-16,2025,2,7,1,Winter,False,London,108.9,London,True
+2025-02-23,2025,2,8,1,Winter,False,London,111.5,London,True
+2025-03-02,2025,3,9,1,Spring,False,London,110.4,London,True
+2025-03-09,2025,3,10,1,Spring,False,London,108.3,London,True
+2025-03-16,2025,3,11,1,Spring,False,London,109.7,London,True
+2025-03-23,2025,3,12,1,Spring,False,London,109.9,London,True
+2025-03-30,2025,3,13,1,Spring,False,London,108.5,London,True
+2025-04-06,2025,4,14,2,Spring,False,London,110.3,London,True
+2025-04-13,2025,4,15,2,Spring,False,London,109.8,London,True
+2025-04-20,2025,4,16,2,Spring,False,London,112.0,London,True
+2025-04-27,2025,4,17,2,Spring,False,London,110.1,London,True
+2025-05-04,2025,5,18,2,Spring,False,London,111.1,London,True
+2025-05-11,2025,5,19,2,Spring,False,London,110.5,London,True
+2025-05-18,2025,5,20,2,Spring,False,London,109.8,London,True
+2025-05-25,2025,5,21,2,Spring,False,London,111.5,London,True
+2025-06-01,2025,6,22,2,Summer,False,London,110.7,London,True
+2025-06-08,2025,6,23,2,Summer,False,London,114.5,London,True
+2025-06-15,2025,6,24,2,Summer,False,London,113.2,London,True
+2025-06-22,2025,6,25,2,Summer,False,London,117.0,London,True
+2025-06-29,2025,6,26,2,Summer,False,London,116.2,London,True
+2025-07-06,2025,7,27,3,Summer,False,London,120.8,London,True
+2025-07-13,2025,7,28,3,Summer,False,London,121.6,London,True
+2025-07-20,2025,7,29,3,Summer,False,London,123.8,London,True
+2025-07-27,2025,7,30,3,Summer,False,London,125.0,London,True
+2025-08-03,2025,8,31,3,Summer,False,London,125.3,London,True
+2025-08-10,2025,8,32,3,Summer,False,London,126.2,London,True
+2025-08-17,2025,8,33,3,Summer,False,London,124.3,London,True
+2025-08-24,2025,8,34,3,Summer,False,London,122.8,London,True
+2025-08-31,2025,8,35,3,Summer,False,London,124.8,London,True
+2025-09-07,2025,9,36,3,Autumn,False,London,120.9,London,True
+2025-09-14,2025,9,37,3,Autumn,False,London,117.9,London,True
+2025-09-21,2025,9,38,3,Autumn,False,London,116.4,London,True
+2025-09-28,2025,9,39,3,Autumn,False,London,116.1,London,True
+2025-10-05,2025,10,40,4,Autumn,False,London,116.0,London,True
+2025-10-12,2025,10,41,4,Autumn,False,London,114.4,London,True
+2025-10-19,2025,10,42,4,Autumn,False,London,110.2,London,True
+2025-10-26,2025,10,43,4,Autumn,False,London,112.5,London,True
+2025-11-02,2025,11,44,4,Autumn,False,London,110.4,London,True
+2025-11-09,2025,11,45,4,Autumn,False,London,112.1,London,True
+2025-11-16,2025,11,46,4,Autumn,False,London,114.8,London,True
+2025-11-23,2025,11,47,4,Autumn,False,London,120.9,London,True
+2025-11-30,2025,11,48,4,Autumn,False,London,127.1,London,True
+2025-12-07,2025,12,49,4,Winter,True,London,134.0,London,True
+2025-12-14,2025,12,50,4,Winter,True,London,139.4,London,True
+2025-12-21,2025,12,51,4,Winter,True,London,141.2,London,True
+2025-12-28,2025,12,52,4,Winter,True,London,139.7,London,True
+2026-01-04,2026,1,1,1,Winter,True,London,97.1,London,False
+2026-01-11,2026,1,2,1,Winter,False,London,96.5,London,False
+2026-01-18,2026,1,3,1,Winter,False,London,97.4,London,False
+2026-01-25,2026,1,4,1,Winter,False,London,100.4,London,True
+2026-02-01,2026,2,5,1,Winter,False,London,105.6,London,True
+2026-02-08,2026,2,6,1,Winter,False,London,106.5,London,True
+2026-02-15,2026,2,7,1,Winter,False,London,110.7,London,True
+2026-02-22,2026,2,8,1,Winter,False,London,111.5,London,True
+2026-03-01,2026,3,9,1,Spring,False,London,109.7,London,True
+2026-03-08,2026,3,10,1,Spring,False,London,110.5,London,True
+2026-03-15,2026,3,11,1,Spring,False,London,108.7,London,True
+2026-03-22,2026,3,12,1,Spring,False,London,108.5,London,True
+2024-07-07,2024,7,27,3,Summer,False,North_East,110.5,North East,True
+2024-07-14,2024,7,28,3,Summer,False,North_East,111.5,North East,True
+2024-07-21,2024,7,29,3,Summer,False,North_East,113.6,North East,True
+2024-07-28,2024,7,30,3,Summer,False,North_East,117.8,North East,True
+2024-08-04,2024,8,31,3,Summer,False,North_East,116.1,North East,True
+2024-08-11,2024,8,32,3,Summer,False,North_East,116.8,North East,True
+2024-08-18,2024,8,33,3,Summer,False,North_East,118.0,North East,True
+2024-08-25,2024,8,34,3,Summer,False,North_East,115.6,North East,True
+2024-09-01,2024,9,35,3,Autumn,False,North_East,115.6,North East,True
+2024-09-08,2024,9,36,3,Autumn,False,North_East,114.1,North East,True
+2024-09-15,2024,9,37,3,Autumn,False,North_East,108.3,North East,True
+2024-09-22,2024,9,38,3,Autumn,False,North_East,108.5,North East,True
+2024-09-29,2024,9,39,3,Autumn,False,North_East,106.7,North East,True
+2024-10-06,2024,10,40,4,Autumn,False,North_East,102.5,North East,True
+2024-10-13,2024,10,41,4,Autumn,False,North_East,103.1,North East,True
+2024-10-20,2024,10,42,4,Autumn,False,North_East,102.1,North East,True
+2024-10-27,2024,10,43,4,Autumn,False,North_East,101.2,North East,True
+2024-11-03,2024,11,44,4,Autumn,False,North_East,100.5,North East,True
+2024-11-10,2024,11,45,4,Autumn,False,North_East,102.3,North East,True
+2024-11-17,2024,11,46,4,Autumn,False,North_East,104.7,North East,True
+2024-11-24,2024,11,47,4,Autumn,False,North_East,109.1,North East,True
+2024-12-01,2024,12,48,4,Winter,False,North_East,118.1,North East,True
+2024-12-08,2024,12,49,4,Winter,True,North_East,126.8,North East,True
+2024-12-15,2024,12,50,4,Winter,True,North_East,134.2,North East,True
+2024-12-22,2024,12,51,4,Winter,True,North_East,137.4,North East,True
+2024-12-29,2024,12,52,4,Winter,True,North_East,136.5,North East,True
+2025-01-05,2025,1,1,1,Winter,True,North_East,82.7,North East,False
+2025-01-12,2025,1,2,1,Winter,False,North_East,81.8,North East,False
+2025-01-19,2025,1,3,1,Winter,False,North_East,82.7,North East,False
+2025-01-26,2025,1,4,1,Winter,False,North_East,88.7,North East,False
+2025-02-02,2025,2,5,1,Winter,False,North_East,92.0,North East,False
+2025-02-09,2025,2,6,1,Winter,False,North_East,95.4,North East,False
+2025-02-16,2025,2,7,1,Winter,False,North_East,95.8,North East,False
+2025-02-23,2025,2,8,1,Winter,False,North_East,96.7,North East,False
+2025-03-02,2025,3,9,1,Spring,False,North_East,99.2,North East,False
+2025-03-09,2025,3,10,1,Spring,False,North_East,100.9,North East,True
+2025-03-16,2025,3,11,1,Spring,False,North_East,100.7,North East,True
+2025-03-23,2025,3,12,1,Spring,False,North_East,98.7,North East,False
+2025-03-30,2025,3,13,1,Spring,False,North_East,100.8,North East,True
+2025-04-06,2025,4,14,2,Spring,False,North_East,100.5,North East,True
+2025-04-13,2025,4,15,2,Spring,False,North_East,100.7,North East,True
+2025-04-20,2025,4,16,2,Spring,False,North_East,99.1,North East,False
+2025-04-27,2025,4,17,2,Spring,False,North_East,99.9,North East,False
+2025-05-04,2025,5,18,2,Spring,False,North_East,97.5,North East,False
+2025-05-11,2025,5,19,2,Spring,False,North_East,100.1,North East,True
+2025-05-18,2025,5,20,2,Spring,False,North_East,99.1,North East,False
+2025-05-25,2025,5,21,2,Spring,False,North_East,101.0,North East,True
+2025-06-01,2025,6,22,2,Summer,False,North_East,100.5,North East,True
+2025-06-08,2025,6,23,2,Summer,False,North_East,103.9,North East,True
+2025-06-15,2025,6,24,2,Summer,False,North_East,102.6,North East,True
+2025-06-22,2025,6,25,2,Summer,False,North_East,104.9,North East,True
+2025-06-29,2025,6,26,2,Summer,False,North_East,106.2,North East,True
+2025-07-06,2025,7,27,3,Summer,False,North_East,109.7,North East,True
+2025-07-13,2025,7,28,3,Summer,False,North_East,110.8,North East,True
+2025-07-20,2025,7,29,3,Summer,False,North_East,112.5,North East,True
+2025-07-27,2025,7,30,3,Summer,False,North_East,116.8,North East,True
+2025-08-03,2025,8,31,3,Summer,False,North_East,117.0,North East,True
+2025-08-10,2025,8,32,3,Summer,False,North_East,119.1,North East,True
+2025-08-17,2025,8,33,3,Summer,False,North_East,118.2,North East,True
+2025-08-24,2025,8,34,3,Summer,False,North_East,115.9,North East,True
+2025-08-31,2025,8,35,3,Summer,False,North_East,114.3,North East,True
+2025-09-07,2025,9,36,3,Autumn,False,North_East,112.4,North East,True
+2025-09-14,2025,9,37,3,Autumn,False,North_East,111.0,North East,True
+2025-09-21,2025,9,38,3,Autumn,False,North_East,108.8,North East,True
+2025-09-28,2025,9,39,3,Autumn,False,North_East,105.6,North East,True
+2025-10-05,2025,10,40,4,Autumn,False,North_East,105.2,North East,True
+2025-10-12,2025,10,41,4,Autumn,False,North_East,104.6,North East,True
+2025-10-19,2025,10,42,4,Autumn,False,North_East,100.1,North East,True
+2025-10-26,2025,10,43,4,Autumn,False,North_East,99.2,North East,False
+2025-11-02,2025,11,44,4,Autumn,False,North_East,98.9,North East,False
+2025-11-09,2025,11,45,4,Autumn,False,North_East,100.8,North East,True
+2025-11-16,2025,11,46,4,Autumn,False,North_East,106.1,North East,True
+2025-11-23,2025,11,47,4,Autumn,False,North_East,108.7,North East,True
+2025-11-30,2025,11,48,4,Autumn,False,North_East,116.1,North East,True
+2025-12-07,2025,12,49,4,Winter,True,North_East,128.7,North East,True
+2025-12-14,2025,12,50,4,Winter,True,North_East,134.7,North East,True
+2025-12-21,2025,12,51,4,Winter,True,North_East,135.9,North East,True
+2025-12-28,2025,12,52,4,Winter,True,North_East,135.2,North East,True
+2026-01-04,2026,1,1,1,Winter,True,North_East,82.5,North East,False
+2026-01-11,2026,1,2,1,Winter,False,North_East,83.1,North East,False
+2026-01-18,2026,1,3,1,Winter,False,North_East,83.8,North East,False
+2026-01-25,2026,1,4,1,Winter,False,North_East,88.9,North East,False
+2026-02-01,2026,2,5,1,Winter,False,North_East,91.2,North East,False
+2026-02-08,2026,2,6,1,Winter,False,North_East,96.3,North East,False
+2026-02-15,2026,2,7,1,Winter,False,North_East,96.2,North East,False
+2026-02-22,2026,2,8,1,Winter,False,North_East,99.6,North East,False
+2026-03-01,2026,3,9,1,Spring,False,North_East,97.6,North East,False
+2026-03-08,2026,3,10,1,Spring,False,North_East,98.6,North East,False
+2026-03-15,2026,3,11,1,Spring,False,North_East,100.5,North East,True
+2026-03-22,2026,3,12,1,Spring,False,North_East,99.7,North East,False
+2024-07-07,2024,7,27,3,Summer,False,North_West,114.0,North West,True
+2024-07-14,2024,7,28,3,Summer,False,North_West,114.7,North West,True
+2024-07-21,2024,7,29,3,Summer,False,North_West,115.4,North West,True
+2024-07-28,2024,7,30,3,Summer,False,North_West,119.6,North West,True
+2024-08-04,2024,8,31,3,Summer,False,North_West,119.7,North West,True
+2024-08-11,2024,8,32,3,Summer,False,North_West,118.3,North West,True
+2024-08-18,2024,8,33,3,Summer,False,North_West,119.7,North West,True
+2024-08-25,2024,8,34,3,Summer,False,North_West,119.6,North West,True
+2024-09-01,2024,9,35,3,Autumn,False,North_West,118.6,North West,True
+2024-09-08,2024,9,36,3,Autumn,False,North_West,114.5,North West,True
+2024-09-15,2024,9,37,3,Autumn,False,North_West,112.3,North West,True
+2024-09-22,2024,9,38,3,Autumn,False,North_West,111.3,North West,True
+2024-09-29,2024,9,39,3,Autumn,False,North_West,108.9,North West,True
+2024-10-06,2024,10,40,4,Autumn,False,North_West,109.3,North West,True
+2024-10-13,2024,10,41,4,Autumn,False,North_West,104.4,North West,True
+2024-10-20,2024,10,42,4,Autumn,False,North_West,106.7,North West,True
+2024-10-27,2024,10,43,4,Autumn,False,North_West,104.7,North West,True
+2024-11-03,2024,11,44,4,Autumn,False,North_West,106.5,North West,True
+2024-11-10,2024,11,45,4,Autumn,False,North_West,107.5,North West,True
+2024-11-17,2024,11,46,4,Autumn,False,North_West,108.1,North West,True
+2024-11-24,2024,11,47,4,Autumn,False,North_West,113.4,North West,True
+2024-12-01,2024,12,48,4,Winter,False,North_West,120.9,North West,True
+2024-12-08,2024,12,49,4,Winter,True,North_West,127.5,North West,True
+2024-12-15,2024,12,50,4,Winter,True,North_West,136.9,North West,True
+2024-12-22,2024,12,51,4,Winter,True,North_West,139.0,North West,True
+2024-12-29,2024,12,52,4,Winter,True,North_West,136.1,North West,True
+2025-01-05,2025,1,1,1,Winter,True,North_West,90.2,North West,False
+2025-01-12,2025,1,2,1,Winter,False,North_West,86.7,North West,False
+2025-01-19,2025,1,3,1,Winter,False,North_West,91.1,North West,False
+2025-01-26,2025,1,4,1,Winter,False,North_West,92.9,North West,False
+2025-02-02,2025,2,5,1,Winter,False,North_West,95.6,North West,False
+2025-02-09,2025,2,6,1,Winter,False,North_West,99.6,North West,False
+2025-02-16,2025,2,7,1,Winter,False,North_West,101.7,North West,True
+2025-02-23,2025,2,8,1,Winter,False,North_West,104.5,North West,True
+2025-03-02,2025,3,9,1,Spring,False,North_West,104.5,North West,True
+2025-03-09,2025,3,10,1,Spring,False,North_West,104.9,North West,True
+2025-03-16,2025,3,11,1,Spring,False,North_West,104.5,North West,True
+2025-03-23,2025,3,12,1,Spring,False,North_West,102.1,North West,True
+2025-03-30,2025,3,13,1,Spring,False,North_West,103.4,North West,True
+2025-04-06,2025,4,14,2,Spring,False,North_West,102.6,North West,True
+2025-04-13,2025,4,15,2,Spring,False,North_West,102.4,North West,True
+2025-04-20,2025,4,16,2,Spring,False,North_West,102.4,North West,True
+2025-04-27,2025,4,17,2,Spring,False,North_West,101.9,North West,True
+2025-05-04,2025,5,18,2,Spring,False,North_West,104.5,North West,True
+2025-05-11,2025,5,19,2,Spring,False,North_West,103.0,North West,True
+2025-05-18,2025,5,20,2,Spring,False,North_West,103.5,North West,True
+2025-05-25,2025,5,21,2,Spring,False,North_West,105.5,North West,True
+2025-06-01,2025,6,22,2,Summer,False,North_West,103.9,North West,True
+2025-06-08,2025,6,23,2,Summer,False,North_West,105.4,North West,True
+2025-06-15,2025,6,24,2,Summer,False,North_West,108.1,North West,True
+2025-06-22,2025,6,25,2,Summer,False,North_West,110.0,North West,True
+2025-06-29,2025,6,26,2,Summer,False,North_West,112.2,North West,True
+2025-07-06,2025,7,27,3,Summer,False,North_West,114.5,North West,True
+2025-07-13,2025,7,28,3,Summer,False,North_West,117.0,North West,True
+2025-07-20,2025,7,29,3,Summer,False,North_West,117.3,North West,True
+2025-07-27,2025,7,30,3,Summer,False,North_West,119.1,North West,True
+2025-08-03,2025,8,31,3,Summer,False,North_West,119.9,North West,True
+2025-08-10,2025,8,32,3,Summer,False,North_West,121.5,North West,True
+2025-08-17,2025,8,33,3,Summer,False,North_West,117.5,North West,True
+2025-08-24,2025,8,34,3,Summer,False,North_West,118.2,North West,True
+2025-08-31,2025,8,35,3,Summer,False,North_West,117.4,North West,True
+2025-09-07,2025,9,36,3,Autumn,False,North_West,115.0,North West,True
+2025-09-14,2025,9,37,3,Autumn,False,North_West,113.8,North West,True
+2025-09-21,2025,9,38,3,Autumn,False,North_West,112.6,North West,True
+2025-09-28,2025,9,39,3,Autumn,False,North_West,110.9,North West,True
+2025-10-05,2025,10,40,4,Autumn,False,North_West,106.2,North West,True
+2025-10-12,2025,10,41,4,Autumn,False,North_West,106.4,North West,True
+2025-10-19,2025,10,42,4,Autumn,False,North_West,106.9,North West,True
+2025-10-26,2025,10,43,4,Autumn,False,North_West,105.1,North West,True
+2025-11-02,2025,11,44,4,Autumn,False,North_West,103.7,North West,True
+2025-11-09,2025,11,45,4,Autumn,False,North_West,106.8,North West,True
+2025-11-16,2025,11,46,4,Autumn,False,North_West,109.1,North West,True
+2025-11-23,2025,11,47,4,Autumn,False,North_West,113.3,North West,True
+2025-11-30,2025,11,48,4,Autumn,False,North_West,120.8,North West,True
+2025-12-07,2025,12,49,4,Winter,True,North_West,129.3,North West,True
+2025-12-14,2025,12,50,4,Winter,True,North_West,136.3,North West,True
+2025-12-21,2025,12,51,4,Winter,True,North_West,136.6,North West,True
+2025-12-28,2025,12,52,4,Winter,True,North_West,134.5,North West,True
+2026-01-04,2026,1,1,1,Winter,True,North_West,91.4,North West,False
+2026-01-11,2026,1,2,1,Winter,False,North_West,88.4,North West,False
+2026-01-18,2026,1,3,1,Winter,False,North_West,88.5,North West,False
+2026-01-25,2026,1,4,1,Winter,False,North_West,93.4,North West,False
+2026-02-01,2026,2,5,1,Winter,False,North_West,98.6,North West,False
+2026-02-08,2026,2,6,1,Winter,False,North_West,102.1,North West,True
+2026-02-15,2026,2,7,1,Winter,False,North_West,103.6,North West,True
+2026-02-22,2026,2,8,1,Winter,False,North_West,101.2,North West,True
+2026-03-01,2026,3,9,1,Spring,False,North_West,104.1,North West,True
+2026-03-08,2026,3,10,1,Spring,False,North_West,102.1,North West,True
+2026-03-15,2026,3,11,1,Spring,False,North_West,104.1,North West,True
+2026-03-22,2026,3,12,1,Spring,False,North_West,102.7,North West,True
+2024-07-07,2024,7,27,3,Summer,False,South_East,113.4,South East,True
+2024-07-14,2024,7,28,3,Summer,False,South_East,116.9,South East,True
+2024-07-21,2024,7,29,3,Summer,False,South_East,119.5,South East,True
+2024-07-28,2024,7,30,3,Summer,False,South_East,121.9,South East,True
+2024-08-04,2024,8,31,3,Summer,False,South_East,119.6,South East,True
+2024-08-11,2024,8,32,3,Summer,False,South_East,122.8,South East,True
+2024-08-18,2024,8,33,3,Summer,False,South_East,122.1,South East,True
+2024-08-25,2024,8,34,3,Summer,False,South_East,119.0,South East,True
+2024-09-01,2024,9,35,3,Autumn,False,South_East,118.1,South East,True
+2024-09-08,2024,9,36,3,Autumn,False,South_East,117.2,South East,True
+2024-09-15,2024,9,37,3,Autumn,False,South_East,116.9,South East,True
+2024-09-22,2024,9,38,3,Autumn,False,South_East,111.8,South East,True
+2024-09-29,2024,9,39,3,Autumn,False,South_East,113.5,South East,True
+2024-10-06,2024,10,40,4,Autumn,False,South_East,111.9,South East,True
+2024-10-13,2024,10,41,4,Autumn,False,South_East,107.4,South East,True
+2024-10-20,2024,10,42,4,Autumn,False,South_East,108.8,South East,True
+2024-10-27,2024,10,43,4,Autumn,False,South_East,106.3,South East,True
+2024-11-03,2024,11,44,4,Autumn,False,South_East,109.4,South East,True
+2024-11-10,2024,11,45,4,Autumn,False,South_East,106.9,South East,True
+2024-11-17,2024,11,46,4,Autumn,False,South_East,111.9,South East,True
+2024-11-24,2024,11,47,4,Autumn,False,South_East,113.3,South East,True
+2024-12-01,2024,12,48,4,Winter,False,South_East,122.7,South East,True
+2024-12-08,2024,12,49,4,Winter,True,South_East,128.1,South East,True
+2024-12-15,2024,12,50,4,Winter,True,South_East,133.9,South East,True
+2024-12-22,2024,12,51,4,Winter,True,South_East,138.9,South East,True
+2024-12-29,2024,12,52,4,Winter,True,South_East,135.4,South East,True
+2025-01-05,2025,1,1,1,Winter,True,South_East,92.0,South East,False
+2025-01-12,2025,1,2,1,Winter,False,South_East,93.4,South East,False
+2025-01-19,2025,1,3,1,Winter,False,South_East,93.8,South East,False
+2025-01-26,2025,1,4,1,Winter,False,South_East,96.2,South East,False
+2025-02-02,2025,2,5,1,Winter,False,South_East,99.2,South East,False
+2025-02-09,2025,2,6,1,Winter,False,South_East,104.6,South East,True
+2025-02-16,2025,2,7,1,Winter,False,South_East,103.2,South East,True
+2025-02-23,2025,2,8,1,Winter,False,South_East,103.8,South East,True
+2025-03-02,2025,3,9,1,Spring,False,South_East,104.1,South East,True
+2025-03-09,2025,3,10,1,Spring,False,South_East,106.8,South East,True
+2025-03-16,2025,3,11,1,Spring,False,South_East,104.2,South East,True
+2025-03-23,2025,3,12,1,Spring,False,South_East,104.2,South East,True
+2025-03-30,2025,3,13,1,Spring,False,South_East,104.9,South East,True
+2025-04-06,2025,4,14,2,Spring,False,South_East,104.6,South East,True
+2025-04-13,2025,4,15,2,Spring,False,South_East,106.1,South East,True
+2025-04-20,2025,4,16,2,Spring,False,South_East,106.6,South East,True
+2025-04-27,2025,4,17,2,Spring,False,South_East,104.9,South East,True
+2025-05-04,2025,5,18,2,Spring,False,South_East,106.8,South East,True
+2025-05-11,2025,5,19,2,Spring,False,South_East,106.4,South East,True
+2025-05-18,2025,5,20,2,Spring,False,South_East,104.9,South East,True
+2025-05-25,2025,5,21,2,Spring,False,South_East,107.1,South East,True
+2025-06-01,2025,6,22,2,Summer,False,South_East,106.8,South East,True
+2025-06-08,2025,6,23,2,Summer,False,South_East,107.7,South East,True
+2025-06-15,2025,6,24,2,Summer,False,South_East,109.4,South East,True
+2025-06-22,2025,6,25,2,Summer,False,South_East,112.8,South East,True
+2025-06-29,2025,6,26,2,Summer,False,South_East,113.7,South East,True
+2025-07-06,2025,7,27,3,Summer,False,South_East,115.0,South East,True
+2025-07-13,2025,7,28,3,Summer,False,South_East,117.6,South East,True
+2025-07-20,2025,7,29,3,Summer,False,South_East,119.8,South East,True
+2025-07-27,2025,7,30,3,Summer,False,South_East,120.9,South East,True
+2025-08-03,2025,8,31,3,Summer,False,South_East,119.1,South East,True
+2025-08-10,2025,8,32,3,Summer,False,South_East,121.1,South East,True
+2025-08-17,2025,8,33,3,Summer,False,South_East,120.3,South East,True
+2025-08-24,2025,8,34,3,Summer,False,South_East,121.8,South East,True
+2025-08-31,2025,8,35,3,Summer,False,South_East,117.0,South East,True
+2025-09-07,2025,9,36,3,Autumn,False,South_East,116.7,South East,True
+2025-09-14,2025,9,37,3,Autumn,False,South_East,113.4,South East,True
+2025-09-21,2025,9,38,3,Autumn,False,South_East,114.8,South East,True
+2025-09-28,2025,9,39,3,Autumn,False,South_East,113.0,South East,True
+2025-10-05,2025,10,40,4,Autumn,False,South_East,111.7,South East,True
+2025-10-12,2025,10,41,4,Autumn,False,South_East,107.7,South East,True
+2025-10-19,2025,10,42,4,Autumn,False,South_East,109.6,South East,True
+2025-10-26,2025,10,43,4,Autumn,False,South_East,106.5,South East,True
+2025-11-02,2025,11,44,4,Autumn,False,South_East,107.9,South East,True
+2025-11-09,2025,11,45,4,Autumn,False,South_East,109.5,South East,True
+2025-11-16,2025,11,46,4,Autumn,False,South_East,111.9,South East,True
+2025-11-23,2025,11,47,4,Autumn,False,South_East,116.8,South East,True
+2025-11-30,2025,11,48,4,Autumn,False,South_East,120.7,South East,True
+2025-12-07,2025,12,49,4,Winter,True,South_East,128.4,South East,True
+2025-12-14,2025,12,50,4,Winter,True,South_East,137.3,South East,True
+2025-12-21,2025,12,51,4,Winter,True,South_East,140.3,South East,True
+2025-12-28,2025,12,52,4,Winter,True,South_East,137.8,South East,True
+2026-01-04,2026,1,1,1,Winter,True,South_East,95.3,South East,False
+2026-01-11,2026,1,2,1,Winter,False,South_East,90.8,South East,False
+2026-01-18,2026,1,3,1,Winter,False,South_East,94.6,South East,False
+2026-01-25,2026,1,4,1,Winter,False,South_East,96.1,South East,False
+2026-02-01,2026,2,5,1,Winter,False,South_East,102.1,South East,True
+2026-02-08,2026,2,6,1,Winter,False,South_East,103.9,South East,True
+2026-02-15,2026,2,7,1,Winter,False,South_East,105.7,South East,True
+2026-02-22,2026,2,8,1,Winter,False,South_East,106.7,South East,True
+2026-03-01,2026,3,9,1,Spring,False,South_East,106.7,South East,True
+2026-03-08,2026,3,10,1,Spring,False,South_East,107.9,South East,True
+2026-03-15,2026,3,11,1,Spring,False,South_East,107.1,South East,True
+2026-03-22,2026,3,12,1,Spring,False,South_East,104.8,South East,True
+2024-07-07,2024,7,27,3,Summer,False,South_West,116.1,South West,True
+2024-07-14,2024,7,28,3,Summer,False,South_West,117.4,South West,True
+2024-07-21,2024,7,29,3,Summer,False,South_West,117.8,South West,True
+2024-07-28,2024,7,30,3,Summer,False,South_West,121.1,South West,True
+2024-08-04,2024,8,31,3,Summer,False,South_West,121.7,South West,True
+2024-08-11,2024,8,32,3,Summer,False,South_West,121.3,South West,True
+2024-08-18,2024,8,33,3,Summer,False,South_West,120.5,South West,True
+2024-08-25,2024,8,34,3,Summer,False,South_West,117.8,South West,True
+2024-09-01,2024,9,35,3,Autumn,False,South_West,116.5,South West,True
+2024-09-08,2024,9,36,3,Autumn,False,South_West,117.0,South West,True
+2024-09-15,2024,9,37,3,Autumn,False,South_West,113.2,South West,True
+2024-09-22,2024,9,38,3,Autumn,False,South_West,113.5,South West,True
+2024-09-29,2024,9,39,3,Autumn,False,South_West,108.9,South West,True
+2024-10-06,2024,10,40,4,Autumn,False,South_West,109.2,South West,True
+2024-10-13,2024,10,41,4,Autumn,False,South_West,108.0,South West,True
+2024-10-20,2024,10,42,4,Autumn,False,South_West,106.6,South West,True
+2024-10-27,2024,10,43,4,Autumn,False,South_West,106.6,South West,True
+2024-11-03,2024,11,44,4,Autumn,False,South_West,107.1,South West,True
+2024-11-10,2024,11,45,4,Autumn,False,South_West,106.6,South West,True
+2024-11-17,2024,11,46,4,Autumn,False,South_West,109.7,South West,True
+2024-11-24,2024,11,47,4,Autumn,False,South_West,112.2,South West,True
+2024-12-01,2024,12,48,4,Winter,False,South_West,123.3,South West,True
+2024-12-08,2024,12,49,4,Winter,True,South_West,128.9,South West,True
+2024-12-15,2024,12,50,4,Winter,True,South_West,135.3,South West,True
+2024-12-22,2024,12,51,4,Winter,True,South_West,137.7,South West,True
+2024-12-29,2024,12,52,4,Winter,True,South_West,137.4,South West,True
+2025-01-05,2025,1,1,1,Winter,True,South_West,89.8,South West,False
+2025-01-12,2025,1,2,1,Winter,False,South_West,90.3,South West,False
+2025-01-19,2025,1,3,1,Winter,False,South_West,91.8,South West,False
+2025-01-26,2025,1,4,1,Winter,False,South_West,93.4,South West,False
+2025-02-02,2025,2,5,1,Winter,False,South_West,99.1,South West,False
+2025-02-09,2025,2,6,1,Winter,False,South_West,102.9,South West,True
+2025-02-16,2025,2,7,1,Winter,False,South_West,101.3,South West,True
+2025-02-23,2025,2,8,1,Winter,False,South_West,105.2,South West,True
+2025-03-02,2025,3,9,1,Spring,False,South_West,103.0,South West,True
+2025-03-09,2025,3,10,1,Spring,False,South_West,104.1,South West,True
+2025-03-16,2025,3,11,1,Spring,False,South_West,102.1,South West,True
+2025-03-23,2025,3,12,1,Spring,False,South_West,105.5,South West,True
+2025-03-30,2025,3,13,1,Spring,False,South_West,104.7,South West,True
+2025-04-06,2025,4,14,2,Spring,False,South_West,102.1,South West,True
+2025-04-13,2025,4,15,2,Spring,False,South_West,105.2,South West,True
+2025-04-20,2025,4,16,2,Spring,False,South_West,103.1,South West,True
+2025-04-27,2025,4,17,2,Spring,False,South_West,102.4,South West,True
+2025-05-04,2025,5,18,2,Spring,False,South_West,102.7,South West,True
+2025-05-11,2025,5,19,2,Spring,False,South_West,105.6,South West,True
+2025-05-18,2025,5,20,2,Spring,False,South_West,104.2,South West,True
+2025-05-25,2025,5,21,2,Spring,False,South_West,104.0,South West,True
+2025-06-01,2025,6,22,2,Summer,False,South_West,105.4,South West,True
+2025-06-08,2025,6,23,2,Summer,False,South_West,108.0,South West,True
+2025-06-15,2025,6,24,2,Summer,False,South_West,109.0,South West,True
+2025-06-22,2025,6,25,2,Summer,False,South_West,110.7,South West,True
+2025-06-29,2025,6,26,2,Summer,False,South_West,113.6,South West,True
+2025-07-06,2025,7,27,3,Summer,False,South_West,113.7,South West,True
+2025-07-13,2025,7,28,3,Summer,False,South_West,115.6,South West,True
+2025-07-20,2025,7,29,3,Summer,False,South_West,119.6,South West,True
+2025-07-27,2025,7,30,3,Summer,False,South_West,119.7,South West,True
+2025-08-03,2025,8,31,3,Summer,False,South_West,122.0,South West,True
+2025-08-10,2025,8,32,3,Summer,False,South_West,119.3,South West,True
+2025-08-17,2025,8,33,3,Summer,False,South_West,120.1,South West,True
+2025-08-24,2025,8,34,3,Summer,False,South_West,119.0,South West,True
+2025-08-31,2025,8,35,3,Summer,False,South_West,119.1,South West,True
+2025-09-07,2025,9,36,3,Autumn,False,South_West,116.5,South West,True
+2025-09-14,2025,9,37,3,Autumn,False,South_West,113.1,South West,True
+2025-09-21,2025,9,38,3,Autumn,False,South_West,111.8,South West,True
+2025-09-28,2025,9,39,3,Autumn,False,South_West,109.7,South West,True
+2025-10-05,2025,10,40,4,Autumn,False,South_West,108.6,South West,True
+2025-10-12,2025,10,41,4,Autumn,False,South_West,106.4,South West,True
+2025-10-19,2025,10,42,4,Autumn,False,South_West,106.7,South West,True
+2025-10-26,2025,10,43,4,Autumn,False,South_West,105.3,South West,True
+2025-11-02,2025,11,44,4,Autumn,False,South_West,103.9,South West,True
+2025-11-09,2025,11,45,4,Autumn,False,South_West,107.3,South West,True
+2025-11-16,2025,11,46,4,Autumn,False,South_West,109.8,South West,True
+2025-11-23,2025,11,47,4,Autumn,False,South_West,112.2,South West,True
+2025-11-30,2025,11,48,4,Autumn,False,South_West,119.9,South West,True
+2025-12-07,2025,12,49,4,Winter,True,South_West,127.9,South West,True
+2025-12-14,2025,12,50,4,Winter,True,South_West,138.8,South West,True
+2025-12-21,2025,12,51,4,Winter,True,South_West,139.3,South West,True
+2025-12-28,2025,12,52,4,Winter,True,South_West,135.7,South West,True
+2026-01-04,2026,1,1,1,Winter,True,South_West,92.2,South West,False
+2026-01-11,2026,1,2,1,Winter,False,South_West,90.5,South West,False
+2026-01-18,2026,1,3,1,Winter,False,South_West,90.5,South West,False
+2026-01-25,2026,1,4,1,Winter,False,South_West,95.6,South West,False
+2026-02-01,2026,2,5,1,Winter,False,South_West,96.2,South West,False
+2026-02-08,2026,2,6,1,Winter,False,South_West,100.2,South West,True
+2026-02-15,2026,2,7,1,Winter,False,South_West,101.1,South West,True
+2026-02-22,2026,2,8,1,Winter,False,South_West,101.7,South West,True
+2026-03-01,2026,3,9,1,Spring,False,South_West,102.8,South West,True
+2026-03-08,2026,3,10,1,Spring,False,South_West,103.6,South West,True
+2026-03-15,2026,3,11,1,Spring,False,South_West,105.4,South West,True
+2026-03-22,2026,3,12,1,Spring,False,South_West,104.0,South West,True
+2024-07-07,2024,7,27,3,Summer,False,West_Midlands,113.5,West Midlands,True
+2024-07-14,2024,7,28,3,Summer,False,West_Midlands,113.0,West Midlands,True
+2024-07-21,2024,7,29,3,Summer,False,West_Midlands,114.5,West Midlands,True
+2024-07-28,2024,7,30,3,Summer,False,West_Midlands,117.9,West Midlands,True
+2024-08-04,2024,8,31,3,Summer,False,West_Midlands,116.8,West Midlands,True
+2024-08-11,2024,8,32,3,Summer,False,West_Midlands,118.2,West Midlands,True
+2024-08-18,2024,8,33,3,Summer,False,West_Midlands,118.6,West Midlands,True
+2024-08-25,2024,8,34,3,Summer,False,West_Midlands,116.7,West Midlands,True
+2024-09-01,2024,9,35,3,Autumn,False,West_Midlands,115.0,West Midlands,True
+2024-09-08,2024,9,36,3,Autumn,False,West_Midlands,113.7,West Midlands,True
+2024-09-15,2024,9,37,3,Autumn,False,West_Midlands,110.8,West Midlands,True
+2024-09-22,2024,9,38,3,Autumn,False,West_Midlands,109.5,West Midlands,True
+2024-09-29,2024,9,39,3,Autumn,False,West_Midlands,107.7,West Midlands,True
+2024-10-06,2024,10,40,4,Autumn,False,West_Midlands,106.0,West Midlands,True
+2024-10-13,2024,10,41,4,Autumn,False,West_Midlands,103.4,West Midlands,True
+2024-10-20,2024,10,42,4,Autumn,False,West_Midlands,102.7,West Midlands,True
+2024-10-27,2024,10,43,4,Autumn,False,West_Midlands,102.8,West Midlands,True
+2024-11-03,2024,11,44,4,Autumn,False,West_Midlands,102.8,West Midlands,True
+2024-11-10,2024,11,45,4,Autumn,False,West_Midlands,106.1,West Midlands,True
+2024-11-17,2024,11,46,4,Autumn,False,West_Midlands,108.0,West Midlands,True
+2024-11-24,2024,11,47,4,Autumn,False,West_Midlands,113.4,West Midlands,True
+2024-12-01,2024,12,48,4,Winter,False,West_Midlands,119.5,West Midlands,True
+2024-12-08,2024,12,49,4,Winter,True,West_Midlands,128.0,West Midlands,True
+2024-12-15,2024,12,50,4,Winter,True,West_Midlands,133.0,West Midlands,True
+2024-12-22,2024,12,51,4,Winter,True,West_Midlands,137.0,West Midlands,True
+2024-12-29,2024,12,52,4,Winter,True,West_Midlands,134.6,West Midlands,True
+2025-01-05,2025,1,1,1,Winter,True,West_Midlands,89.9,West Midlands,False
+2025-01-12,2025,1,2,1,Winter,False,West_Midlands,89.0,West Midlands,False
+2025-01-19,2025,1,3,1,Winter,False,West_Midlands,87.8,West Midlands,False
+2025-01-26,2025,1,4,1,Winter,False,West_Midlands,92.8,West Midlands,False
+2025-02-02,2025,2,5,1,Winter,False,West_Midlands,96.6,West Midlands,False
+2025-02-09,2025,2,6,1,Winter,False,West_Midlands,101.1,West Midlands,True
+2025-02-16,2025,2,7,1,Winter,False,West_Midlands,99.3,West Midlands,False
+2025-02-23,2025,2,8,1,Winter,False,West_Midlands,101.7,West Midlands,True
+2025-03-02,2025,3,9,1,Spring,False,West_Midlands,103.7,West Midlands,True
+2025-03-09,2025,3,10,1,Spring,False,West_Midlands,101.2,West Midlands,True
+2025-03-16,2025,3,11,1,Spring,False,West_Midlands,101.5,West Midlands,True
+2025-03-23,2025,3,12,1,Spring,False,West_Midlands,103.3,West Midlands,True
+2025-03-30,2025,3,13,1,Spring,False,West_Midlands,102.5,West Midlands,True
+2025-04-06,2025,4,14,2,Spring,False,West_Midlands,103.0,West Midlands,True
+2025-04-13,2025,4,15,2,Spring,False,West_Midlands,101.6,West Midlands,True
+2025-04-20,2025,4,16,2,Spring,False,West_Midlands,100.4,West Midlands,True
+2025-04-27,2025,4,17,2,Spring,False,West_Midlands,100.9,West Midlands,True
+2025-05-04,2025,5,18,2,Spring,False,West_Midlands,103.8,West Midlands,True
+2025-05-11,2025,5,19,2,Spring,False,West_Midlands,100.7,West Midlands,True
+2025-05-18,2025,5,20,2,Spring,False,West_Midlands,101.8,West Midlands,True
+2025-05-25,2025,5,21,2,Spring,False,West_Midlands,102.6,West Midlands,True
+2025-06-01,2025,6,22,2,Summer,False,West_Midlands,103.0,West Midlands,True
+2025-06-08,2025,6,23,2,Summer,False,West_Midlands,107.0,West Midlands,True
+2025-06-15,2025,6,24,2,Summer,False,West_Midlands,105.3,West Midlands,True
+2025-06-22,2025,6,25,2,Summer,False,West_Midlands,108.2,West Midlands,True
+2025-06-29,2025,6,26,2,Summer,False,West_Midlands,108.8,West Midlands,True
+2025-07-06,2025,7,27,3,Summer,False,West_Midlands,112.1,West Midlands,True
+2025-07-13,2025,7,28,3,Summer,False,West_Midlands,112.8,West Midlands,True
+2025-07-20,2025,7,29,3,Summer,False,West_Midlands,115.4,West Midlands,True
+2025-07-27,2025,7,30,3,Summer,False,West_Midlands,116.5,West Midlands,True
+2025-08-03,2025,8,31,3,Summer,False,West_Midlands,120.2,West Midlands,True
+2025-08-10,2025,8,32,3,Summer,False,West_Midlands,120.8,West Midlands,True
+2025-08-17,2025,8,33,3,Summer,False,West_Midlands,118.6,West Midlands,True
+2025-08-24,2025,8,34,3,Summer,False,West_Midlands,117.9,West Midlands,True
+2025-08-31,2025,8,35,3,Summer,False,West_Midlands,114.9,West Midlands,True
+2025-09-07,2025,9,36,3,Autumn,False,West_Midlands,112.8,West Midlands,True
+2025-09-14,2025,9,37,3,Autumn,False,West_Midlands,111.1,West Midlands,True
+2025-09-21,2025,9,38,3,Autumn,False,West_Midlands,110.9,West Midlands,True
+2025-09-28,2025,9,39,3,Autumn,False,West_Midlands,107.4,West Midlands,True
+2025-10-05,2025,10,40,4,Autumn,False,West_Midlands,108.3,West Midlands,True
+2025-10-12,2025,10,41,4,Autumn,False,West_Midlands,103.4,West Midlands,True
+2025-10-19,2025,10,42,4,Autumn,False,West_Midlands,104.7,West Midlands,True
+2025-10-26,2025,10,43,4,Autumn,False,West_Midlands,102.9,West Midlands,True
+2025-11-02,2025,11,44,4,Autumn,False,West_Midlands,103.6,West Midlands,True
+2025-11-09,2025,11,45,4,Autumn,False,West_Midlands,103.7,West Midlands,True
+2025-11-16,2025,11,46,4,Autumn,False,West_Midlands,107.9,West Midlands,True
+2025-11-23,2025,11,47,4,Autumn,False,West_Midlands,112.9,West Midlands,True
+2025-11-30,2025,11,48,4,Autumn,False,West_Midlands,117.7,West Midlands,True
+2025-12-07,2025,12,49,4,Winter,True,West_Midlands,129.3,West Midlands,True
+2025-12-14,2025,12,50,4,Winter,True,West_Midlands,135.9,West Midlands,True
+2025-12-21,2025,12,51,4,Winter,True,West_Midlands,137.1,West Midlands,True
+2025-12-28,2025,12,52,4,Winter,True,West_Midlands,136.6,West Midlands,True
+2026-01-04,2026,1,1,1,Winter,True,West_Midlands,90.5,West Midlands,False
+2026-01-11,2026,1,2,1,Winter,False,West_Midlands,86.1,West Midlands,False
+2026-01-18,2026,1,3,1,Winter,False,West_Midlands,86.8,West Midlands,False
+2026-01-25,2026,1,4,1,Winter,False,West_Midlands,93.3,West Midlands,False
+2026-02-01,2026,2,5,1,Winter,False,West_Midlands,97.4,West Midlands,False
+2026-02-08,2026,2,6,1,Winter,False,West_Midlands,99.7,West Midlands,False
+2026-02-15,2026,2,7,1,Winter,False,West_Midlands,100.1,West Midlands,True
+2026-02-22,2026,2,8,1,Winter,False,West_Midlands,99.7,West Midlands,False
+2026-03-01,2026,3,9,1,Spring,False,West_Midlands,100.2,West Midlands,True
+2026-03-08,2026,3,10,1,Spring,False,West_Midlands,103.6,West Midlands,True
+2026-03-15,2026,3,11,1,Spring,False,West_Midlands,103.0,West Midlands,True
+2026-03-22,2026,3,12,1,Spring,False,West_Midlands,100.3,West Midlands,True
+2024-07-07,2024,7,27,3,Summer,False,Yorkshire_and_The_Humber,110.0,Yorkshire & The Humber,True
+2024-07-14,2024,7,28,3,Summer,False,Yorkshire_and_The_Humber,113.4,Yorkshire & The Humber,True
+2024-07-21,2024,7,29,3,Summer,False,Yorkshire_and_The_Humber,115.3,Yorkshire & The Humber,True
+2024-07-28,2024,7,30,3,Summer,False,Yorkshire_and_The_Humber,118.6,Yorkshire & The Humber,True
+2024-08-04,2024,8,31,3,Summer,False,Yorkshire_and_The_Humber,119.9,Yorkshire & The Humber,True
+2024-08-11,2024,8,32,3,Summer,False,Yorkshire_and_The_Humber,116.6,Yorkshire & The Humber,True
+2024-08-18,2024,8,33,3,Summer,False,Yorkshire_and_The_Humber,117.7,Yorkshire & The Humber,True
+2024-08-25,2024,8,34,3,Summer,False,Yorkshire_and_The_Humber,115.6,Yorkshire & The Humber,True
+2024-09-01,2024,9,35,3,Autumn,False,Yorkshire_and_The_Humber,115.0,Yorkshire & The Humber,True
+2024-09-08,2024,9,36,3,Autumn,False,Yorkshire_and_The_Humber,115.2,Yorkshire & The Humber,True
+2024-09-15,2024,9,37,3,Autumn,False,Yorkshire_and_The_Humber,111.1,Yorkshire & The Humber,True
+2024-09-22,2024,9,38,3,Autumn,False,Yorkshire_and_The_Humber,107.7,Yorkshire & The Humber,True
+2024-09-29,2024,9,39,3,Autumn,False,Yorkshire_and_The_Humber,105.3,Yorkshire & The Humber,True
+2024-10-06,2024,10,40,4,Autumn,False,Yorkshire_and_The_Humber,104.5,Yorkshire & The Humber,True
+2024-10-13,2024,10,41,4,Autumn,False,Yorkshire_and_The_Humber,102.3,Yorkshire & The Humber,True
+2024-10-20,2024,10,42,4,Autumn,False,Yorkshire_and_The_Humber,102.0,Yorkshire & The Humber,True
+2024-10-27,2024,10,43,4,Autumn,False,Yorkshire_and_The_Humber,100.0,Yorkshire & The Humber,False
+2024-11-03,2024,11,44,4,Autumn,False,Yorkshire_and_The_Humber,101.3,Yorkshire & The Humber,True
+2024-11-10,2024,11,45,4,Autumn,False,Yorkshire_and_The_Humber,103.8,Yorkshire & The Humber,True
+2024-11-17,2024,11,46,4,Autumn,False,Yorkshire_and_The_Humber,106.8,Yorkshire & The Humber,True
+2024-11-24,2024,11,47,4,Autumn,False,Yorkshire_and_The_Humber,110.4,Yorkshire & The Humber,True
+2024-12-01,2024,12,48,4,Winter,False,Yorkshire_and_The_Humber,118.3,Yorkshire & The Humber,True
+2024-12-08,2024,12,49,4,Winter,True,Yorkshire_and_The_Humber,129.1,Yorkshire & The Humber,True
+2024-12-15,2024,12,50,4,Winter,True,Yorkshire_and_The_Humber,134.0,Yorkshire & The Humber,True
+2024-12-22,2024,12,51,4,Winter,True,Yorkshire_and_The_Humber,139.3,Yorkshire & The Humber,True
+2024-12-29,2024,12,52,4,Winter,True,Yorkshire_and_The_Humber,136.0,Yorkshire & The Humber,True
+2025-01-05,2025,1,1,1,Winter,True,Yorkshire_and_The_Humber,83.4,Yorkshire & The Humber,False
+2025-01-12,2025,1,2,1,Winter,False,Yorkshire_and_The_Humber,83.3,Yorkshire & The Humber,False
+2025-01-19,2025,1,3,1,Winter,False,Yorkshire_and_The_Humber,86.9,Yorkshire & The Humber,False
+2025-01-26,2025,1,4,1,Winter,False,Yorkshire_and_The_Humber,90.2,Yorkshire & The Humber,False
+2025-02-02,2025,2,5,1,Winter,False,Yorkshire_and_The_Humber,92.0,Yorkshire & The Humber,False
+2025-02-09,2025,2,6,1,Winter,False,Yorkshire_and_The_Humber,97.9,Yorkshire & The Humber,False
+2025-02-16,2025,2,7,1,Winter,False,Yorkshire_and_The_Humber,99.4,Yorkshire & The Humber,False
+2025-02-23,2025,2,8,1,Winter,False,Yorkshire_and_The_Humber,101.6,Yorkshire & The Humber,True
+2025-03-02,2025,3,9,1,Spring,False,Yorkshire_and_The_Humber,101.5,Yorkshire & The Humber,True
+2025-03-09,2025,3,10,1,Spring,False,Yorkshire_and_The_Humber,101.2,Yorkshire & The Humber,True
+2025-03-16,2025,3,11,1,Spring,False,Yorkshire_and_The_Humber,101.2,Yorkshire & The Humber,True
+2025-03-23,2025,3,12,1,Spring,False,Yorkshire_and_The_Humber,102.0,Yorkshire & The Humber,True
+2025-03-30,2025,3,13,1,Spring,False,Yorkshire_and_The_Humber,99.4,Yorkshire & The Humber,False
+2025-04-06,2025,4,14,2,Spring,False,Yorkshire_and_The_Humber,100.5,Yorkshire & The Humber,True
+2025-04-13,2025,4,15,2,Spring,False,Yorkshire_and_The_Humber,100.5,Yorkshire & The Humber,True
+2025-04-20,2025,4,16,2,Spring,False,Yorkshire_and_The_Humber,98.6,Yorkshire & The Humber,False
+2025-04-27,2025,4,17,2,Spring,False,Yorkshire_and_The_Humber,99.3,Yorkshire & The Humber,False
+2025-05-04,2025,5,18,2,Spring,False,Yorkshire_and_The_Humber,102.0,Yorkshire & The Humber,True
+2025-05-11,2025,5,19,2,Spring,False,Yorkshire_and_The_Humber,99.6,Yorkshire & The Humber,False
+2025-05-18,2025,5,20,2,Spring,False,Yorkshire_and_The_Humber,100.3,Yorkshire & The Humber,True
+2025-05-25,2025,5,21,2,Spring,False,Yorkshire_and_The_Humber,101.1,Yorkshire & The Humber,True
+2025-06-01,2025,6,22,2,Summer,False,Yorkshire_and_The_Humber,104.1,Yorkshire & The Humber,True
+2025-06-08,2025,6,23,2,Summer,False,Yorkshire_and_The_Humber,103.9,Yorkshire & The Humber,True
+2025-06-15,2025,6,24,2,Summer,False,Yorkshire_and_The_Humber,105.0,Yorkshire & The Humber,True
+2025-06-22,2025,6,25,2,Summer,False,Yorkshire_and_The_Humber,106.5,Yorkshire & The Humber,True
+2025-06-29,2025,6,26,2,Summer,False,Yorkshire_and_The_Humber,110.1,Yorkshire & The Humber,True
+2025-07-06,2025,7,27,3,Summer,False,Yorkshire_and_The_Humber,110.3,Yorkshire & The Humber,True
+2025-07-13,2025,7,28,3,Summer,False,Yorkshire_and_The_Humber,114.5,Yorkshire & The Humber,True
+2025-07-20,2025,7,29,3,Summer,False,Yorkshire_and_The_Humber,116.6,Yorkshire & The Humber,True
+2025-07-27,2025,7,30,3,Summer,False,Yorkshire_and_The_Humber,116.3,Yorkshire & The Humber,True
+2025-08-03,2025,8,31,3,Summer,False,Yorkshire_and_The_Humber,118.3,Yorkshire & The Humber,True
+2025-08-10,2025,8,32,3,Summer,False,Yorkshire_and_The_Humber,119.7,Yorkshire & The Humber,True
+2025-08-17,2025,8,33,3,Summer,False,Yorkshire_and_The_Humber,119.7,Yorkshire & The Humber,True
+2025-08-24,2025,8,34,3,Summer,False,Yorkshire_and_The_Humber,117.5,Yorkshire & The Humber,True
+2025-08-31,2025,8,35,3,Summer,False,Yorkshire_and_The_Humber,116.9,Yorkshire & The Humber,True
+2025-09-07,2025,9,36,3,Autumn,False,Yorkshire_and_The_Humber,112.1,Yorkshire & The Humber,True
+2025-09-14,2025,9,37,3,Autumn,False,Yorkshire_and_The_Humber,111.8,Yorkshire & The Humber,True
+2025-09-21,2025,9,38,3,Autumn,False,Yorkshire_and_The_Humber,107.8,Yorkshire & The Humber,True
+2025-09-28,2025,9,39,3,Autumn,False,Yorkshire_and_The_Humber,106.4,Yorkshire & The Humber,True
+2025-10-05,2025,10,40,4,Autumn,False,Yorkshire_and_The_Humber,106.3,Yorkshire & The Humber,True
+2025-10-12,2025,10,41,4,Autumn,False,Yorkshire_and_The_Humber,105.3,Yorkshire & The Humber,True
+2025-10-19,2025,10,42,4,Autumn,False,Yorkshire_and_The_Humber,103.2,Yorkshire & The Humber,True
+2025-10-26,2025,10,43,4,Autumn,False,Yorkshire_and_The_Humber,101.3,Yorkshire & The Humber,True
+2025-11-02,2025,11,44,4,Autumn,False,Yorkshire_and_The_Humber,102.2,Yorkshire & The Humber,True
+2025-11-09,2025,11,45,4,Autumn,False,Yorkshire_and_The_Humber,103.2,Yorkshire & The Humber,True
+2025-11-16,2025,11,46,4,Autumn,False,Yorkshire_and_The_Humber,107.0,Yorkshire & The Humber,True
+2025-11-23,2025,11,47,4,Autumn,False,Yorkshire_and_The_Humber,110.2,Yorkshire & The Humber,True
+2025-11-30,2025,11,48,4,Autumn,False,Yorkshire_and_The_Humber,119.8,Yorkshire & The Humber,True
+2025-12-07,2025,12,49,4,Winter,True,Yorkshire_and_The_Humber,126.3,Yorkshire & The Humber,True
+2025-12-14,2025,12,50,4,Winter,True,Yorkshire_and_The_Humber,135.5,Yorkshire & The Humber,True
+2025-12-21,2025,12,51,4,Winter,True,Yorkshire_and_The_Humber,139.5,Yorkshire & The Humber,True
+2025-12-28,2025,12,52,4,Winter,True,Yorkshire_and_The_Humber,136.4,Yorkshire & The Humber,True
+2026-01-04,2026,1,1,1,Winter,True,Yorkshire_and_The_Humber,84.0,Yorkshire & The Humber,False
+2026-01-11,2026,1,2,1,Winter,False,Yorkshire_and_The_Humber,82.2,Yorkshire & The Humber,False
+2026-01-18,2026,1,3,1,Winter,False,Yorkshire_and_The_Humber,84.2,Yorkshire & The Humber,False
+2026-01-25,2026,1,4,1,Winter,False,Yorkshire_and_The_Humber,89.8,Yorkshire & The Humber,False
+2026-02-01,2026,2,5,1,Winter,False,Yorkshire_and_The_Humber,92.1,Yorkshire & The Humber,False
+2026-02-08,2026,2,6,1,Winter,False,Yorkshire_and_The_Humber,97.0,Yorkshire & The Humber,False
+2026-02-15,2026,2,7,1,Winter,False,Yorkshire_and_The_Humber,99.6,Yorkshire & The Humber,False
+2026-02-22,2026,2,8,1,Winter,False,Yorkshire_and_The_Humber,98.9,Yorkshire & The Humber,False
+2026-03-01,2026,3,9,1,Spring,False,Yorkshire_and_The_Humber,100.6,Yorkshire & The Humber,True
+2026-03-08,2026,3,10,1,Spring,False,Yorkshire_and_The_Humber,98.9,Yorkshire & The Humber,False
+2026-03-15,2026,3,11,1,Spring,False,Yorkshire_and_The_Humber,100.5,Yorkshire & The Humber,True
+2026-03-22,2026,3,12,1,Spring,False,Yorkshire_and_The_Humber,100.3,Yorkshire & The Humber,True

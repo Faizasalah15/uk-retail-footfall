@@ -1,0 +1,172 @@
+{
+  "generated_at": "2026-04-25T10:53:28.234274",
+  "data_source": "ONS / BT Active Intelligence",
+  "coverage": {
+    "start": "2024-07-07",
+    "end": "2026-03-22",
+    "weeks": 90,
+    "regions": 14,
+    "site_types": 3
+  },
+  "pipeline_stats": {
+    "rows_raw": 90,
+    "rows_final": 90,
+    "nulls_filled": 0,
+    "anomalies_flagged": 0,
+    "duplicates_removed": 0
+  },
+  "regions": {
+    "UK Total": {
+      "mean": 108.92,
+      "median": 106.9,
+      "std": 10.32,
+      "min": 89.0,
+      "max": 136.7,
+      "latest": 101.5,
+      "above_baseline_pct": 86.7
+    },
+    "England": {
+      "mean": 110.02,
+      "median": 107.35,
+      "std": 10.57,
+      "min": 89.5,
+      "max": 137.3,
+      "latest": 102.1,
+      "above_baseline_pct": 90.0
+    },
+    "Northern Ireland": {
+      "mean": 110.24,
+      "median": 106.5,
+      "std": 17.54,
+      "min": 75.4,
+      "max": 154.8,
+      "latest": 101.7,
+      "above_baseline_pct": 77.8
+    },
+    "Scotland": {
+      "mean": 111.01,
+      "median": 107.65,
+      "std": 15.3,
+      "min": 80.2,
+      "max": 148.9,
+      "latest": 102.5,
+      "above_baseline_pct": 86.7
+    },
+    "Wales": {
+      "mean": 108.27,
+      "median": 105.45,
+      "std": 12.32,
+      "min": 85.1,
+      "max": 139.7,
+      "latest": 102.2,
+      "above_baseline_pct": 81.1
+    },
+    "East of England": {
+      "mean": 111.94,
+      "median": 109.6,
+      "std": 10.4,
+      "min": 91.3,
+      "max": 138.2,
+      "latest": 105.9,
+      "above_baseline_pct": 91.1
+    },
+    "East Midlands": {
+      "mean": 108.41,
+      "median": 105.9,
+      "std": 11.35,
+      "min": 85.9,
+      "max": 136.7,
+      "latest": 100.5,
+      "above_baseline_pct": 85.6
+    },
+    "London": {
+      "mean": 116.08,
+      "median": 114.4,
+      "std": 10.3,
+      "min": 95.8,
+      "max": 142.0,
+      "latest": 108.5,
+      "above_baseline_pct": 93.3
+    },
+    "North East": {
+      "mean": 106.09,
+      "median": 103.5,
+      "std": 12.56,
+      "min": 81.8,
+      "max": 137.4,
+      "latest": 99.7,
+      "above_baseline_pct": 70.0
+    },
+    "North West": {
+      "mean": 109.83,
+      "median": 107.2,
+      "std": 11.29,
+      "min": 86.7,
+      "max": 139.0,
+      "latest": 102.7,
+      "above_baseline_pct": 87.8
+    },
+    "South East": {
+      "mean": 111.93,
+      "median": 109.55,
+      "std": 10.52,
+      "min": 90.8,
+      "max": 140.3,
+      "latest": 104.8,
+      "above_baseline_pct": 90.0
+    },
+    "South West": {
+      "mean": 110.5,
+      "median": 108.3,
+      "std": 11.27,
+      "min": 89.8,
+      "max": 139.3,
+      "latest": 104.0,
+      "above_baseline_pct": 88.9
+    },
+    "West Midlands": {
+      "mean": 108.41,
+      "median": 106.05,
+      "std": 11.33,
+      "min": 86.1,
+      "max": 137.1,
+      "latest": 100.3,
+      "above_baseline_pct": 85.6
+    },
+    "Yorkshire & The Humber": {
+      "mean": 107.25,
+      "median": 104.75,
+      "std": 12.51,
+      "min": 82.2,
+      "max": 139.5,
+      "latest": 100.3,
+      "above_baseline_pct": 76.7
+    }
+  },
+  "site_types": {
+    "District & Local Centres": {
+      "mean": 113.22,
+      "median": 110.85,
+      "std": 10.64,
+      "min": 94.8,
+      "max": 142.4,
+      "latest": 106.3
+    },
+    "Retail Parks": {
+      "mean": 105.58,
+      "median": 104.1,
+      "std": 8.96,
+      "min": 83.5,
+      "max": 124.6,
+      "latest": 102.1
+    },
+    "Town & City Centres": {
+      "mean": 105.88,
+      "median": 102.75,
+      "std": 11.61,
+      "min": 87.8,
+      "max": 141.2,
+      "latest": 99.1
+    }
+  }
+}

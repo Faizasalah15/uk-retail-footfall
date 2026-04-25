@@ -1,0 +1,113 @@
+Region,Week_Ahead,Forecast,Upper_95,Lower_95
+UK Total,1,100.86,117.71,84.01
+UK Total,2,99.98,118.25,81.7
+UK Total,3,100.15,119.85,80.46
+UK Total,4,100.01,121.12,78.89
+UK Total,5,99.25,121.79,76.71
+UK Total,6,99.05,123.01,75.08
+UK Total,7,98.76,124.15,73.37
+UK Total,8,99.02,125.83,72.22
+England,1,101.25,118.52,83.97
+England,2,101.06,119.79,82.33
+England,3,100.46,120.65,80.27
+England,4,100.72,122.37,79.07
+England,5,99.89,123.0,76.77
+England,6,99.59,124.16,75.02
+England,7,99.48,125.51,73.44
+England,8,99.7,127.2,72.21
+Northern Ireland,1,97.46,125.42,69.5
+Northern Ireland,2,96.88,127.27,66.49
+Northern Ireland,3,96.21,129.04,63.39
+Northern Ireland,4,95.83,131.09,60.57
+Northern Ireland,5,95.45,133.14,57.76
+Northern Ireland,6,95.09,135.21,54.97
+Northern Ireland,7,95.25,137.8,52.69
+Northern Ireland,8,94.74,139.73,49.75
+Scotland,1,99.0,123.61,74.38
+Scotland,2,98.5,125.24,71.76
+Scotland,3,97.59,126.46,68.71
+Scotland,4,97.88,128.88,66.88
+Scotland,5,97.33,130.45,64.2
+Scotland,6,96.86,132.12,61.6
+Scotland,7,96.76,134.14,59.37
+Scotland,8,96.31,135.83,56.8
+Wales,1,99.05,119.17,78.93
+Wales,2,98.5,120.34,76.66
+Wales,3,98.08,121.64,74.52
+Wales,4,97.88,123.16,72.6
+Wales,5,97.35,124.35,70.35
+Wales,6,97.09,125.81,68.37
+Wales,7,96.81,127.26,66.37
+Wales,8,96.52,128.68,64.36
+East of England,1,104.26,121.47,87.04
+East of England,2,104.46,123.13,85.79
+East of England,3,104.05,124.18,83.92
+East of England,4,103.59,125.17,82.0
+East of England,5,103.45,126.49,80.41
+East of England,6,103.26,127.75,78.76
+East of England,7,102.96,128.91,77.0
+East of England,8,102.95,130.36,75.54
+East Midlands,1,99.78,118.59,80.97
+East Midlands,2,99.6,120.0,79.18
+East Midlands,3,99.23,121.24,77.22
+East Midlands,4,99.02,122.63,75.41
+East Midlands,5,99.1,124.32,73.89
+East Midlands,6,98.58,125.38,71.76
+East Midlands,7,98.28,126.69,69.87
+East Midlands,8,98.2,128.21,68.19
+London,1,107.12,124.01,90.23
+London,2,107.17,125.48,88.86
+London,3,106.8,126.54,87.06
+London,4,106.92,128.09,85.76
+London,5,106.31,128.9,83.72
+London,6,106.21,130.23,82.19
+London,7,105.83,131.27,80.39
+London,8,105.42,132.29,78.56
+North East,1,96.72,116.85,76.59
+North East,2,96.36,118.21,74.52
+North East,3,96.1,119.67,72.52
+North East,4,95.51,120.8,70.21
+North East,5,95.35,122.36,68.34
+North East,6,94.62,123.35,65.88
+North East,7,94.78,125.23,64.32
+North East,8,94.3,126.48,62.12
+North West,1,100.84,118.83,82.85
+North West,2,100.41,119.93,80.89
+North West,3,100.09,121.14,79.05
+North West,4,99.81,122.37,77.24
+North West,5,99.43,123.52,75.34
+North West,6,99.61,125.23,73.99
+North West,7,99.06,126.21,71.91
+North West,8,98.86,127.54,70.19
+South East,1,104.11,121.41,86.8
+South East,2,103.8,122.57,85.02
+South East,3,103.81,124.04,83.57
+South East,4,103.64,125.34,81.94
+South East,5,103.08,126.24,79.91
+South East,6,103.16,127.79,78.53
+South East,7,102.83,128.92,76.74
+South East,8,102.3,129.86,74.75
+South West,1,101.44,119.66,83.23
+South West,2,100.69,120.45,80.93
+South West,3,100.97,122.27,79.66
+South West,4,100.31,123.16,77.45
+South West,5,99.89,124.3,75.5
+South West,6,99.67,125.62,73.72
+South West,7,99.91,127.4,72.41
+South West,8,99.37,128.41,70.33
+West Midlands,1,99.48,118.32,80.65
+West Midlands,2,99.29,119.73,78.84
+West Midlands,3,98.75,120.8,76.7
+West Midlands,4,98.25,121.89,74.6
+West Midlands,5,98.05,123.3,72.8
+West Midlands,6,98.28,125.14,71.43
+West Midlands,7,97.44,125.9,68.98
+West Midlands,8,97.35,127.41,67.29
+Yorkshire & Humber,1,96.95,117.19,76.72
+Yorkshire & Humber,2,96.82,118.79,74.85
+Yorkshire & Humber,3,96.5,120.19,72.8
+Yorkshire & Humber,4,95.82,121.25,70.4
+Yorkshire & Humber,5,95.62,122.78,68.46
+Yorkshire & Humber,6,95.78,124.67,66.89
+Yorkshire & Humber,7,95.01,125.63,64.4
+Yorkshire & Humber,8,94.81,127.16,62.46
