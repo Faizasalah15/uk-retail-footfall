@@ -8,7 +8,7 @@
 
 > **An end-to-end analytics platform transforming 90 weeks of official ONS/BT Active Intelligence retail footfall data into actionable intelligence — covering 14 UK regions, 3 site types, and 1,260 data points through a 12-layer analytics engine.**
 
-🌐 **[Open Dashboard →](uk_footfall_dashboard.html)** &nbsp;|&nbsp; 📊 **[View Sample Figures ↓](#-sample-outputs)**
+🌐 **[Open Dashboard →](https://faizasalah15.github.io/uk-retail-footfall/)** &nbsp;|&nbsp; 📊 **[View Sample Figures ↓](#-sample-outputs)**
 
 ---
 
